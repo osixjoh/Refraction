@@ -21,3 +21,7 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+#Ignore backups
+Refraction/Saved/Backup
+Refraction/Saved/Logs
