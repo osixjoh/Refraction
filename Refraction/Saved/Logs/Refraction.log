@@ -3743,3 +3743,15 @@ LogInit: Object subsystem initialized
 [2019.02.21-15.45.46:189][274]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_MasterLightInteractorB0C782124A2ADA8A93122CABB3541B8A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_MasterLightInteractor.uasset'
 [2019.02.21-15.45.46:194][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_MasterLightInteractor.uasset
 [2019.02.21-15.45.47:526][378]LogSlate: Window 'B_MasterLightInteractor' being destroyed
+[2019.02.21-15.47.28:061][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-15.47.28:310][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.21-15.47.28:332][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7e6e8bd80, Size=296
+[2019.02.21-15.47.28:385][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c823b7aec8, Size=4
+[2019.02.21-15.47.28:385][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7c0dfa470, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_725:ExecuteUbergraph_TopDownExampleMap
+[2019.02.21-15.47.28:386][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7c0dfa090, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.02.21-15.47.28:503][770]LogSavePackage: Save=118.75ms
+[2019.02.21-15.47.28:503][770]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap127B01FF44961253CC01D3B8E087CD38.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.02.21-15.47.28:507][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.02.21-15.47.28:796][770]LogSavePackage: Save=11.18ms
+[2019.02.21-15.47.28:796][770]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap_BuiltData3AEABE3B402A5D78F0C83CBBA6CD4211.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.02.21-15.47.28:798][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
