@@ -23,6 +23,4 @@ $RECYCLE.BIN/
 # =========================
 
 #Ignore backups
-Refraction/Saved/Backup
-Refraction/Saved/Logs
-Refraction/Saved/Crashes
+Refraction/Saved
