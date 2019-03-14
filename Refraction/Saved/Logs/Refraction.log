@@ -828,3 +828,462 @@ LogInit: Object subsystem initialized
 [2019.03.14-12.35.27:230][870]SourceControl: rm 'Refraction/Content/LevelObjectsToBeReplaced/B_Receiver.uasset'
 [2019.03.14-12.35.33:155][372]LogSlate: Window 'Levels' being destroyed
 [2019.03.14-12.35.36:260][565]LogSlate: Window 'Levels' being destroyed
+[2019.03.14-12.37.19:111][970]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.14-12.37.20:077][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.37.20:150][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-12.37.20:172][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.37.20:173][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.37.20:173][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.37.20:173][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.37.20:173][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.37.20:173][ 53]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.14-12.37.20:174][ 53]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2019.03.14-12.37.20:174][ 53]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f786893ea8, Size=4
+[2019.03.14-12.37.20:174][ 53]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7ccf9be48, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_63:ExecuteUbergraph_TopDownExampleMap
+[2019.03.14-12.37.20:175][ 53]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7ccf9bf28, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.14-12.37.20:233][ 53]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7ccf9be48, Size=4
+[2019.03.14-12.37.20:233][ 53]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (1 blueprints)
+[2019.03.14-12.37.20:233][ 53]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 12:37:20)
+[2019.03.14-12.37.20:234][ 53]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-12.37.20:236][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002595s)
+[2019.03.14-12.37.20:237][ 53]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-12.37.20:237][ 53]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2019.03.14-12.37.20:237][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003309s)
+[2019.03.14-12.37.20:248][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-12.37.20:268][ 53]LogInit: FAudioDevice initialized.
+[2019.03.14-12.37.20:304][ 53]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-12.37.20:306][ 53]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-12.37.20
+[2019.03.14-12.37.20:307][ 53]LogWorld: Bringing up level for play took: 0.001921
+[2019.03.14-12.37.20:308][ 53]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.37.20:308][ 53]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.37.20:308][ 53]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.37.20:309][ 53]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-12.37.20:312][ 53]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.37.20:312][ 53]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.176
+[2019.03.14-12.37.20:313][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.37.20:313][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.37.20:313][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.37.20:313][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.37.20:313][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.37.22:077][253]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-12.37.22:277][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-12.37.24:088][475]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-12.37.24:345][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.37.27:300][860]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 0 0 0
+[2019.03.14-12.37.27:300][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.37.27:307][861]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level2 1 1 0
+[2019.03.14-12.37.30:157][199]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level2 0 0 0
+[2019.03.14-12.37.30:157][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.37.30:164][200]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level3 1 1 0
+[2019.03.14-12.37.32:794][512]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level3 0 0 0
+[2019.03.14-12.37.32:794][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.37.32:801][513]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level4 1 1 0
+[2019.03.14-12.37.49:302][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.37.49:302][486]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.03.14-12.37.49:302][486]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.03.14-12.37.49:302][486]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2019.03.14-12.37.49:302][486]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2019.03.14-12.37.49:314][486]LogAudio: Warning: Audio Component is being destroyed without stopping looping sound 'SC_BGM'
+[2019.03.14-12.37.49:316][486]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-12.37.49:319][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002628s)
+[2019.03.14-12.37.49:319][486]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-12.37.49:320][486]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2019.03.14-12.37.49:320][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003261s)
+[2019.03.14-12.37.49:320][486]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-12.37.49:321][486]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-12.37.49
+[2019.03.14-12.37.49:321][486]LogWorld: Bringing up level for play took: 0.000734
+[2019.03.14-12.37.49:321][486]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-12.37.49:321][486]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.37.49:321][486]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.37.49:321][486]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.37.49:322][486]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-12.37.49:323][486]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.37.49:323][486]LogLoad: Took 0.020499 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2019.03.14-12.37.49:342][486]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-12.37.51:019][685]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-12.37.51:030][685]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.14-12.37.51:036][685]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.14-12.37.51:039][685]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-12.37.51:697][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.37.51:697][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.37.51:697][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.37.51:697][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.37.51:697][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.37.51:727][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.37.51:727][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.37.51:727][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.37.51:727][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.37.51:727][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.37.53:175][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.37.56:072][237]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-12.37.56:367][237]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.03.14-12.37.56:722][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85daa2798, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.14-12.37.56:723][237]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85daa2790, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.14-12.37.57:409][237]LogSlate: Took 0.006957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be MainMenuTextOption_C /Engine/Transient.World_13:MainMenuWidget_C_4.WidgetTree_62.StartGame or MainMenuTextOption_C /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:WidgetTree.StartGame
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be MainMenuTextOption_C /Engine/Transient.World_13:MainMenuWidget_C_4.WidgetTree_62.StartGame or MainMenuTextOption_C /Engine/Transient.World_13:MainMenuWidget_C_3.WidgetTree_59.StartGame
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be MainMenuTextOption_C /Engine/Transient.World_13:MainMenuWidget_C_4.WidgetTree_62.StartGame or MainMenuTextOption_C /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:WidgetTree.StartGame
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be MainMenuTextOption_C /Engine/Transient.World_13:MainMenuWidget_C_4.WidgetTree_62.StartGame or MainMenuTextOption_C /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.StartGame
+[2019.03.14-12.38.04:086][998]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MainMenuTextOption_C /Engine/Transient.World_13:MainMenuWidget_C_4.WidgetTree_62.StartGame) from referencer (MainMenuTextOption_C /Engine/UMG/Editor/Transient.Options).  Import failed...
+[2019.03.14-12.38.04:086][998]LogProperty: Warning: ObjectProperty /Game/UIWidgets/MainMenuTextOption.MainMenuTextOption_C:OtherOptions.OtherOptions: unresolved reference to 'MainMenuTextOption_C'"StartGame"''
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/FadeToBlack.SKEL_FadeToBlack_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/LevelCompleteWidget.LevelCompleteWidget:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/LevelCompleteWidget.SKEL_LevelCompleteWidget_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/LevelCompleteWidget.LevelCompleteWidget_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/OnHoverPrism.OnHoverPrism:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/OnHoverPrism.SKEL_OnHoverPrism_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UIWidgets/OnHoverPrism.OnHoverPrism_C:WidgetTree.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_2:OnHoverPrism_C_0.WidgetTree_0.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenuWidget_C_3.WidgetTree_59.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:OnHoverPrism_C_4.WidgetTree_4.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UIWidgets/FadeToBlack.FadeToBlack:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenuWidget_C_4.WidgetTree_62.CanvasPanel_0
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/UIWidgets/LevelCompleteWidget.LevelCompleteWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/UIWidgets/LevelCompleteWidget.SKEL_LevelCompleteWidget_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Game/UIWidgets/LevelCompleteWidget.LevelCompleteWidget_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_13:MainMenuWidget_C_3.WidgetTree_59.CanvasPanel_0.CanvasPanelSlot_3
+[2019.03.14-12.38.04:086][998]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3 or CanvasPanelSlot /Engine/Transient.World_13:MainMenuWidget_C_4.WidgetTree_62.CanvasPanel_0.CanvasPanelSlot_3
+[2019.03.14-12.38.04:086][998]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UIWidgets/MainMenuWidget.MainMenuWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3) from referencer (MainMenuTextOption_C /Engine/UMG/Editor/Transient.Options).  Import failed...
+[2019.03.14-12.38.04:086][998]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_3"''
+[2019.03.14-12.38.04:096][998]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f862eef790, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.04:413][ 32]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/UMG/Editor' is outside repository
+[2019.03.14-12.38.34:975][590]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.38.34:985][590]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f862eef790, Size=4
+[2019.03.14-12.38.34:985][590]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8647f0448, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_6:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.35:000][590]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7d2946d40, Size=312
+[2019.03.14-12.38.35:000][590]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8663ddbc0, Size=312, Default__MainMenuWidget_C Function /Engine/Transient.REINST_MainMenuWidget_C_7:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.35:005][590]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8663dce00, Size=312, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.35:021][590]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8647f0448, Size=4
+[2019.03.14-12.38.35:531][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.38.35:589][629]LogSavePackage: Save=43.25ms
+[2019.03.14-12.38.35:589][629]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget5AC4B34B4982904D579EB1BF6F1217D3.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.38.35:593][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.38.37:914][883]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.14-12.38.42:632][434]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7863b07d0, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.44:047][598]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.38.44:058][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7863b07d0, Size=4
+[2019.03.14-12.38.44:058][598]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8647f0190, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_9:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.44:073][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8663dce00, Size=312
+[2019.03.14-12.38.44:073][598]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8623d1e40, Size=312, MainMenuWidget_C_11 Function /Engine/Transient.REINST_MainMenuWidget_C_10:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.44:078][598]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f864cb4540, Size=312, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.44:094][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8647f0190, Size=4
+[2019.03.14-12.38.44:530][641]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.38.44:555][641]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f864cb4540, Size=312
+[2019.03.14-12.38.44:555][641]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8665e6840, Size=312, MainMenuWidget_C_15 Function /Engine/Transient.REINST_MainMenuWidget_C_12:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.44:561][641]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8665e5bc0, Size=312, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.38.45:016][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.38.45:068][665]LogSavePackage: Save=42.41ms
+[2019.03.14-12.38.45:068][665]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget3077C4484493DFE8429F44A4003491E2.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.38.45:072][665]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.39.09:088][511]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-12.39.09:124][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.39.09:124][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.39.09:124][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.39.09:124][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.39.09:124][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.39.09:124][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-12.39.09:124][511]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 12:39:09)
+[2019.03.14-12.39.09:124][511]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-12.39.09:126][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002423s)
+[2019.03.14-12.39.09:127][511]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-12.39.09:127][511]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2019.03.14-12.39.09:127][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003087s)
+[2019.03.14-12.39.09:139][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8665e6840, Size=312
+[2019.03.14-12.39.09:143][511]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-12.39.09:164][511]LogInit: FAudioDevice initialized.
+[2019.03.14-12.39.09:194][511]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-12.39.09:195][511]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-12.39.09
+[2019.03.14-12.39.09:195][511]LogWorld: Bringing up level for play took: 0.000799
+[2019.03.14-12.39.09:196][511]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.39.09:196][511]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.39.09:196][511]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.39.09:196][511]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-12.39.09:199][511]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.39.09:199][511]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.712
+[2019.03.14-12.39.09:199][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.39.09:199][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.39.09:199][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.39.09:199][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.39.09:200][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.39.10:253][615]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-12.39.10:256][615]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.14-12.39.10:259][615]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.14-12.39.10:261][615]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-12.39.10:731][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.39.10:731][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.39.10:731][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.39.10:731][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.39.10:731][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.39.10:765][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.39.10:765][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.39.10:765][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.39.10:765][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.39.10:765][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.39.10:784][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8663ddbc0, Size=312
+[2019.03.14-12.39.10:785][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8623d1e40, Size=312
+[2019.03.14-12.39.11:203][716]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-12.39.11:206][716]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.14-12.39.11:207][716]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.14-12.39.19:728][720]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.39.19:752][720]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8665e5bc0, Size=312
+[2019.03.14-12.39.19:753][720]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7d23bce00, Size=312, Default__MainMenuWidget_C Function /Engine/Transient.REINST_MainMenuWidget_C_14:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.39.19:758][720]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7ed6287c0, Size=304, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.39.20:262][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.39.20:314][746]LogSavePackage: Save=42.61ms
+[2019.03.14-12.39.20:314][746]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget1346C50041752FB97CE4D0B2B4B1F45A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.39.20:317][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.42.44:487][ 16]LogEditorTransaction: Undo Move Node
+[2019.03.14-12.42.44:495][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f862eee5a8, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.42.58:928][671]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.42.58:939][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f862eee5a8, Size=4
+[2019.03.14-12.42.58:939][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7adc5a780, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_16:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.42.58:953][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7ed6287c0, Size=304
+[2019.03.14-12.42.58:953][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f866387740, Size=304, MainMenuWidget_C_26 Function /Engine/Transient.REINST_MainMenuWidget_C_17:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.42.58:957][671]LogBlueprint: Error: [Compiler MainMenuWidget] Event Dispatcher pin is not connected  Bind Event to ButtonPressed
+[2019.03.14-12.42.58:959][671]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f857673d00, Size=328, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.42.58:988][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7d23bce00, Size=312
+[2019.03.14-12.42.58:988][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7adc5a780, Size=4
+[2019.03.14-12.42.59:006][671]LogBlueprint: Warning: [Compiler MainMenuWidget] [0753.34] Compile of MainMenuWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 78 ms] (/Game/UIWidgets/MainMenuWidget.MainMenuWidget)
+[2019.03.14-12.42.59:448][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.42.59:502][686]LogSavePackage: Save=44.51ms
+[2019.03.14-12.42.59:502][686]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidgetB8E5742A4E3A8C58760AA08A0C0827B8.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.42.59:507][686]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.43.08:617][688]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7cbf73e78, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.15:145][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7cbf73e78, Size=4
+[2019.03.14-12.43.15:145][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7d287a330, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_19:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.15:147][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7d287a590, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.33:834][576]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7d287a590, Size=4
+[2019.03.14-12.43.33:834][576]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8620fde18, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_20:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.33:837][576]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8620fdb90, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.38:693][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8620fdb90, Size=4
+[2019.03.14-12.43.38:693][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f862844f00, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_21:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.38:696][138]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f862846770, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.42:205][539]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.43.42:216][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f862846770, Size=4
+[2019.03.14-12.43.42:216][539]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8647f2918, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_22:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.42:230][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f857673d00, Size=328
+[2019.03.14-12.43.42:230][539]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f862984b80, Size=328, Default__MainMenuWidget_C Function /Engine/Transient.REINST_MainMenuWidget_C_23:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.42:235][539]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7b98f2c00, Size=320, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.42:251][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8647f2918, Size=4
+[2019.03.14-12.43.42:251][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f862844f00, Size=4
+[2019.03.14-12.43.42:251][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8620fde18, Size=4
+[2019.03.14-12.43.42:251][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f866387740, Size=304
+[2019.03.14-12.43.42:251][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7d287a330, Size=4
+[2019.03.14-12.43.42:703][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.43.42:780][551]LogSavePackage: Save=62.03ms
+[2019.03.14-12.43.42:780][551]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidgetC1ED577D4C966E5BC0859FA5A9642551.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.43.42:786][551]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.43.47:215][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.43.47:281][ 38]LogSavePackage: Save=50.88ms
+[2019.03.14-12.43.47:281][ 38]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget4A6B8EAD456C8639FB7F189FACC6EC31.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.43.47:290][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.43.57:252][115]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.43.57:278][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7b98f2c00, Size=320
+[2019.03.14-12.43.57:278][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7b4b9fd80, Size=320, MainMenuWidget_C_37 Function /Engine/Transient.REINST_MainMenuWidget_C_25:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.57:283][115]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7b4b9ee80, Size=320, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.43.58:861][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.43.58:973][248]LogSavePackage: Save=93.26ms
+[2019.03.14-12.43.58:973][248]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget5C2FD7FC4E5D4E3FB3B3868BB071763D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.43.58:981][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.44.09:564][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7d287b888, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.12:427][742]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7d287b888, Size=4
+[2019.03.14-12.44.12:427][742]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7d262d9c8, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_27:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.12:429][742]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7d262d1a0, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.14:572][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7d262d1a0, Size=4
+[2019.03.14-12.44.14:572][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7adc5b3f0, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_28:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.14:575][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7adc59010, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.23:564][947]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.44.23:575][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7adc59010, Size=4
+[2019.03.14-12.44.23:575][947]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7cbf71a40, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_29:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.23:590][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7b4b9ee80, Size=320
+[2019.03.14-12.44.23:590][947]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f861ec74c0, Size=320, MainMenuWidget_C_44 Function /Engine/Transient.REINST_MainMenuWidget_C_30:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.23:596][947]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7b5dec400, Size=344, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.23:611][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7b4b9fd80, Size=320
+[2019.03.14-12.44.23:611][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7d262d9c8, Size=4
+[2019.03.14-12.44.23:611][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7cbf71a40, Size=4
+[2019.03.14-12.44.23:611][947]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7adc5b3f0, Size=4
+[2019.03.14-12.44.24:120][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.44.24:186][969]LogSavePackage: Save=53.58ms
+[2019.03.14-12.44.24:186][969]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget4E1BB448416AD33ED7336BA517F1B1DF.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.44.24:194][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.44.27:463][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.44.27:552][318]LogSavePackage: Save=66.47ms
+[2019.03.14-12.44.27:552][318]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget645D4FAC481A5B485551B2B9FCA2FB28.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.44.27:560][318]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.44.29:264][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7811b1fa0, Size=32
+[2019.03.14-12.44.29:264][457]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7be0eeda0, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_121:ExecuteUbergraph_Level1
+[2019.03.14-12.44.29:265][457]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f7be0ef280, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-12.44.29:266][457]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-12.44.29:478][457]LogSavePackage: Save=215.83ms
+[2019.03.14-12.44.29:478][457]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level1C827B40D4FC46358296BDB8D239A6E99.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-12.44.29:486][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-12.44.29:687][475]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-12.44.29:716][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.44.29:716][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.44.29:716][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.44.29:716][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.44.29:716][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.44.29:716][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-12.44.29:716][475]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 12:44:29)
+[2019.03.14-12.44.29:716][475]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-12.44.29:719][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002898s)
+[2019.03.14-12.44.29:720][475]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-12.44.29:720][475]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.03.14-12.44.29:720][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003684s)
+[2019.03.14-12.44.29:733][475]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7be0eeda0, Size=32
+[2019.03.14-12.44.29:736][475]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-12.44.29:755][475]LogInit: FAudioDevice initialized.
+[2019.03.14-12.44.29:790][475]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-12.44.29:791][475]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-12.44.29
+[2019.03.14-12.44.29:791][475]LogWorld: Bringing up level for play took: 0.001002
+[2019.03.14-12.44.29:792][475]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.44.29:792][475]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.44.29:792][475]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.44.29:792][475]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-12.44.29:794][475]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.44.29:794][475]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.682
+[2019.03.14-12.44.29:794][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.44.29:794][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.44.29:794][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.44.29:795][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.44.29:795][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.44.31:329][611]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-12.44.31:544][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-12.44.32:536][726]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-12.44.32:664][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.44.32:664][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.44.32:664][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.44.32:664][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.44.32:664][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.44.32:741][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.44.32:741][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.44.32:741][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.44.32:742][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.44.32:742][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.44.32:778][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f862984b80, Size=328
+[2019.03.14-12.44.32:778][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f861ec74c0, Size=320
+[2019.03.14-12.44.32:852][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-12.44.33:915][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.44.34:313][851]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7be0ef280, Size=32
+[2019.03.14-12.44.34:313][851]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f81ff04820, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_125:ExecuteUbergraph_Level1
+[2019.03.14-12.44.34:314][851]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f81ff05020, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-12.44.34:315][851]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-12.44.34:437][851]LogSavePackage: Save=125.78ms
+[2019.03.14-12.44.34:437][851]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level1FB8A28204D9A1D6DA143FE80459A7B9D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-12.44.34:444][851]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-12.44.44:637][904]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f862847e80, Size=4, Default__SKEL_MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.SKEL_MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.56:788][180]BlueprintLog: New page: Compile MainMenuWidget
+[2019.03.14-12.44.56:800][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f862847e80, Size=4
+[2019.03.14-12.44.56:800][180]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f862847e80, Size=4, Default__SKEL_MainMenuWidget_C Function /Engine/Transient.REINST_SKEL_MainMenuWidget_C_32:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.56:815][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7b5dec400, Size=344
+[2019.03.14-12.44.56:815][180]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8663f6f80, Size=344, Default__MainMenuWidget_C Function /Engine/Transient.REINST_MainMenuWidget_C_33:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.56:821][180]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f859b1c700, Size=352, Default__MainMenuWidget_C Function /Game/UIWidgets/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
+[2019.03.14-12.44.56:843][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f862847e80, Size=4
+[2019.03.14-12.44.56:843][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f81ff04820, Size=32
+[2019.03.14-12.44.57:299][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIWidgets/MainMenuWidget" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset" SILENT=true
+[2019.03.14-12.44.57:376][190]LogSavePackage: Save=66.43ms
+[2019.03.14-12.44.57:376][190]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MainMenuWidget372E5D2F49742260AA31E98D71C5CF06.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset'
+[2019.03.14-12.44.57:379][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/UIWidgets/MainMenuWidget.uasset
+[2019.03.14-12.44.59:108][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f81ff05020, Size=32
+[2019.03.14-12.44.59:108][343]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85d8d3100, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_134:ExecuteUbergraph_Level1
+[2019.03.14-12.44.59:109][343]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85d8d2ae0, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-12.44.59:110][343]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-12.44.59:230][343]LogSavePackage: Save=123.60ms
+[2019.03.14-12.44.59:230][343]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level1ECD7C9404C110F71DB0000B6A7579E82.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-12.44.59:238][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-12.44.59:702][382]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-12.44.59:729][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.44.59:729][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.44.59:729][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.44.59:729][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.44.59:729][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.44.59:729][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-12.44.59:730][382]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 12:44:59)
+[2019.03.14-12.44.59:730][382]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-12.44.59:732][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002671s)
+[2019.03.14-12.44.59:733][382]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-12.44.59:733][382]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.03.14-12.44.59:733][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003351s)
+[2019.03.14-12.44.59:755][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85d8d3100, Size=32
+[2019.03.14-12.44.59:761][382]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-12.44.59:784][382]LogInit: FAudioDevice initialized.
+[2019.03.14-12.44.59:817][382]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-12.44.59:819][382]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-12.44.59
+[2019.03.14-12.44.59:819][382]LogWorld: Bringing up level for play took: 0.001282
+[2019.03.14-12.44.59:820][382]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.44.59:820][382]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.44.59:820][382]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.44.59:821][382]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-12.44.59:825][382]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.44.59:825][382]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.651
+[2019.03.14-12.44.59:825][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.44.59:825][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.44.59:825][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.44.59:826][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.44.59:826][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.45.00:316][423]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-12.45.00:554][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-12.45.15:436][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.45.15:440][201]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-12.45.19:158][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.45.19:159][641]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.03.14-12.45.19:159][641]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.03.14-12.45.19:160][641]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2019.03.14-12.45.19:160][641]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2019.03.14-12.45.19:178][641]LogAudio: Warning: Audio Component is being destroyed without stopping looping sound 'SC_BGM'
+[2019.03.14-12.45.19:181][641]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-12.45.19:183][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002741s)
+[2019.03.14-12.45.19:184][641]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-12.45.19:184][641]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2019.03.14-12.45.19:184][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003387s)
+[2019.03.14-12.45.19:184][641]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-12.45.19:185][641]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-12.45.19
+[2019.03.14-12.45.19:185][641]LogWorld: Bringing up level for play took: 0.000765
+[2019.03.14-12.45.19:186][641]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.14-12.45.19:186][641]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.45.19:186][641]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-12.45.19:186][641]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.45.19:186][641]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-12.45.19:188][641]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-12.45.19:188][641]LogLoad: Took 0.027148 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2019.03.14-12.45.19:663][696]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	MainMenuTextOption_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.MainMenuWidget_C_56.WidgetTree_257.Quit
+	Function /Game/UIWidgets/MainMenuTextOption.MainMenuTextOption_C:ExecuteUbergraph_MainMenuTextOption:03BA
+[2019.03.14-12.45.20:083][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.45.20:083][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.45.20:083][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.45.20:083][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.45.20:083][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.45.20:150][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-12.45.20:150][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-12.45.20:150][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-12.45.20:150][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-12.45.20:150][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-12.45.20:183][740]LogAudio: Warning: Audio Component is being destroyed without stopping looping sound 'SC_BGM'
+[2019.03.14-12.45.20:186][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8663f6f80, Size=344
+[2019.03.14-12.45.20:233][740]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.14-12.45.21:268][864]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.14-12.45.21:270][864]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-12.45.22:400][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-12.45.22:751][962]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-12.45.22:808][962]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85d8d2ae0, Size=32
+[2019.03.14-12.45.22:808][962]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f86249c560, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_138:ExecuteUbergraph_Level1
+[2019.03.14-12.45.22:810][962]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85d8d3160, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-12.45.22:810][962]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-12.45.22:940][962]LogSavePackage: Save=134.47ms
+[2019.03.14-12.45.22:941][962]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level16C32ACAB474BC99BADB1AFBABAD598A0.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-12.45.22:949][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-12.45.23:282][997]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f86249c560, Size=32
+[2019.03.14-12.45.27:028][997]LogSlate: Window 'Save Content' being destroyed
+[2019.03.14-12.45.27:530][997]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f7ccf9bf28, Size=4
+[2019.03.14-12.45.27:531][997]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f861c64088, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_142:ExecuteUbergraph_TopDownExampleMap
+[2019.03.14-12.45.27:531][997]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f861c66070, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.14-12.45.27:657][997]LogSavePackage: Save=127.80ms
+[2019.03.14-12.45.27:657][997]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapB2CBAA2D4F1398683455FB9DD1598EC7.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.14-12.45.27:662][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.14-12.45.27:718][997]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.339
