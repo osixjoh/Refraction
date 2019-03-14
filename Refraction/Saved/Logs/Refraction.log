@@ -12307,3 +12307,1119 @@ Script call stack:
 [2019.03.14-16.25.04:122][363]LogSavePackage: Save=124.50ms
 [2019.03.14-16.25.04:122][363]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level131A0687C489CFF9C4957F988371A04BC.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
 [2019.03.14-16.25.04:126][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.27.14:281][917]LogEditorViewport: Clicking on Actor (LMB): B_NewPrism_C (B_Prism)
+[2019.03.14-16.27.15:171][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.27.16:224][ 94]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.14-16.27.21:348][593]LogEditorViewport: Clicking Background
+[2019.03.14-16.27.25:252][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.27.25:351][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.27.25:379][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.27.25:379][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.27.25:379][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.27.25:379][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.27.25:379][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.27.25:380][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.27.25:380][ 39]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:27:25)
+[2019.03.14-16.27.25:380][ 39]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.27.25:383][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002714s)
+[2019.03.14-16.27.25:383][ 39]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.27.25:383][ 39]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.03.14-16.27.25:383][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003440s)
+[2019.03.14-16.27.25:401][ 39]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456d61cf80, Size=32
+[2019.03.14-16.27.25:404][ 39]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.27.25:425][ 39]LogInit: FAudioDevice initialized.
+[2019.03.14-16.27.25:456][ 39]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.27.25:458][ 39]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.27.25
+[2019.03.14-16.27.25:459][ 39]LogWorld: Bringing up level for play took: 0.001928
+[2019.03.14-16.27.25:460][ 39]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.27.25:460][ 39]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.27.25:460][ 39]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.27.25:461][ 39]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.27.25:465][ 39]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.27.25:465][ 39]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.829
+[2019.03.14-16.27.25:465][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.27.25:465][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.27.25:465][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.27.25:465][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.27.25:465][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.27.28:799][412]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 0 0 0
+[2019.03.14-16.27.28:799][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.27.28:828][413]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level2 1 1 0
+[2019.03.14-16.27.40:334][745]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level2 0 0 0
+[2019.03.14-16.27.40:335][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.27.40:365][746]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level3 1 1 0
+[2019.03.14-16.27.55:594][444]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-16.27.55:598][444]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.14-16.27.55:602][444]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.14-16.27.55:604][444]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-16.28.03:674][345]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level3 0 0 0
+[2019.03.14-16.28.03:674][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.28.03:703][346]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level4 1 1 0
+[2019.03.14-16.28.10:318][ 84]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level4 0 0 0
+[2019.03.14-16.28.10:318][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.28.10:357][ 85]LogLevel: Warning: Failed to find streaming level object associated with 'Level5'
+[2019.03.14-16.28.11:674][217]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456d61dce0, Size=32
+[2019.03.14-16.28.11:674][217]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024541a2bb60, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_2435:ExecuteUbergraph_Level1
+[2019.03.14-16.28.11:675][217]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024541a2a0a0, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-16.28.11:675][217]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-16.28.11:891][217]LogSavePackage: Save=219.08ms
+[2019.03.14-16.28.11:891][217]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level17FA306EA4D32B755425D85BC9F3D3B90.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-16.28.11:896][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.28.12:329][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.28.12:329][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.28.12:330][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.28.12:330][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.28.12:330][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.28.12:364][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.28.12:364][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.28.12:364][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.28.12:364][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.28.12:364][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.28.12:396][266]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024541a2bb60, Size=32
+[2019.03.14-16.28.13:139][321]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-16.28.13:218][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024541a2a0a0, Size=32
+[2019.03.14-16.28.13:218][321]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245393327e0, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_2439:ExecuteUbergraph_Level1
+[2019.03.14-16.28.13:219][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024539332800, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-16.28.13:220][321]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-16.28.13:372][321]LogSavePackage: Save=156.22ms
+[2019.03.14-16.28.13:372][321]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level1FE6E540F419A7B67EC6E30B7E04B1B85.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-16.28.13:378][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.35.57:954][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245393327e0, Size=32
+[2019.03.14-16.35.57:975][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024539332800, Size=32
+[2019.03.14-16.35.57:975][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456e27dee0, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_2443:ExecuteUbergraph_Level1
+[2019.03.14-16.35.57:976][909]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456e27f8c0, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-16.35.57:977][909]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-16.35.58:100][909]LogSavePackage: Save=126.18ms
+[2019.03.14-16.35.58:100][909]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level19E108DD44D0C0847790448A3B7C9B501.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-16.35.58:106][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.36.05:654][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456e27dee0, Size=32
+[2019.03.14-16.37.27:165][693]LogEditorViewport: Clicking on Actor (LMB): B_NewPrism_C (B_Prism)
+[2019.03.14-16.37.27:729][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.37.27:796][719]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.37.27:820][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.27:820][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.27:821][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.27:821][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.27:821][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.27:821][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.37.27:821][719]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:37:27)
+[2019.03.14-16.37.27:821][719]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.37.27:824][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002796s)
+[2019.03.14-16.37.27:824][719]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.37.27:825][719]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.03.14-16.37.27:825][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003613s)
+[2019.03.14-16.37.27:842][719]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.37.27:864][719]LogInit: FAudioDevice initialized.
+[2019.03.14-16.37.27:897][719]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.37.27:900][719]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.37.27
+[2019.03.14-16.37.27:900][719]LogWorld: Bringing up level for play took: 0.001956
+[2019.03.14-16.37.27:901][719]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.37.27:902][719]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.37.27:902][719]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.37.27:902][719]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.37.27:906][719]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.37.27:906][719]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.38
+[2019.03.14-16.37.27:907][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.27:907][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.27:907][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.27:907][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.27:907][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.27:963][719]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.37.27:963][719]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.37.27:963][719]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.37.27:964][719]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.37.27:964][719]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.37.27:964][719]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.37.30:356][989]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.37.31:871][148]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.37.32:111][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.37.32:420][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.32:420][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.32:420][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.32:420][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.32:420][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.32:453][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.32:454][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.32:454][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.32:454][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.32:454][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.33:321][281]LogEditorViewport: Clicking on Actor (LMB): B_InteractorTracks_C (B_InteractorTracks)
+[2019.03.14-16.37.34:806][443]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.14-16.37.35:752][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.37.36:226][573]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.14-16.37.44:886][118]BlueprintLog: New page: Compile B_InteractorTracks
+[2019.03.14-16.37.44:903][118]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002457aa13880, Size=128
+[2019.03.14-16.37.44:903][118]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245873cb380, Size=128, Default__B_InteractorTracks_C Function /Engine/Transient.REINST_B_InteractorTracks_C_2449:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.37.44:907][118]LogUObjectGlobals: Created PersistentFrame Addr=0x00000245873caa80, Size=128, Default__B_InteractorTracks_C Function /Game/B_InteractorTracks.B_InteractorTracks_C:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.37.45:532][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.37.45:585][119]LogSavePackage: Save=31.73ms
+[2019.03.14-16.37.45:585][119]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks8988158C4F91C316C15D83BD8606783D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.37.45:592][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.37.45:929][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.37.45:975][124]LogSavePackage: Save=30.58ms
+[2019.03.14-16.37.45:975][124]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks89ECF87F488A927855A30A91D47B417B.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.37.45:978][124]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.37.46:720][170]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.37.46:754][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.46:754][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.46:754][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.46:754][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.46:754][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.46:754][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.37.46:754][170]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:37:46)
+[2019.03.14-16.37.46:754][170]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.37.46:756][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002457s)
+[2019.03.14-16.37.46:757][170]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.37.46:757][170]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2019.03.14-16.37.46:757][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003147s)
+[2019.03.14-16.37.46:771][170]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245873cb380, Size=128
+[2019.03.14-16.37.46:774][170]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.37.46:792][170]LogInit: FAudioDevice initialized.
+[2019.03.14-16.37.46:823][170]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.37.46:825][170]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.37.46
+[2019.03.14-16.37.46:826][170]LogWorld: Bringing up level for play took: 0.001675
+[2019.03.14-16.37.46:827][170]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.37.46:827][170]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.37.46:827][170]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.37.46:828][170]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.37.46:831][170]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.37.46:831][170]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.545
+[2019.03.14-16.37.46:832][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.46:832][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.46:832][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.46:832][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.46:832][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.46:895][170]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.37.46:895][170]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.37.46:895][170]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.37.46:896][170]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.37.46:896][170]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.37.46:896][170]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.37.49:495][353]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.37.49:727][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.37.50:621][440]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.37.50:888][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.37.51:001][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.51:001][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.51:001][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.51:001][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.51:001][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.51:042][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.51:042][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.51:043][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.51:043][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.51:043][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.52:215][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.37.53:894][628]BlueprintLog: New page: Compile B_InteractorTracks
+[2019.03.14-16.37.53:910][628]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245873caa80, Size=128
+[2019.03.14-16.37.53:910][628]LogUObjectGlobals: Created PersistentFrame Addr=0x000002458def7e80, Size=128, Default__B_InteractorTracks_C Function /Engine/Transient.REINST_B_InteractorTracks_C_2455:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.37.53:913][628]LogUObjectGlobals: Created PersistentFrame Addr=0x000002458def5680, Size=128, Default__B_InteractorTracks_C Function /Game/B_InteractorTracks.B_InteractorTracks_C:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.37.54:472][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.37.54:524][630]LogSavePackage: Save=36.59ms
+[2019.03.14-16.37.54:524][630]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks8BAE3C3A4C9C87650A3F8E92BB02262D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.37.54:528][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.37.54:566][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.37.54:785][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.37.54:829][635]LogSavePackage: Save=27.31ms
+[2019.03.14-16.37.54:829][635]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracksD5D7AF0B4662CA82865698A03322A63C.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.37.54:830][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.37.55:502][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.37.55:846][701]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.37.55:881][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.55:881][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.55:881][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.55:881][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.55:881][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.55:882][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.37.55:882][701]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:37:55)
+[2019.03.14-16.37.55:882][701]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.37.55:884][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002556s)
+[2019.03.14-16.37.55:885][701]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.37.55:885][701]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2019.03.14-16.37.55:885][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003172s)
+[2019.03.14-16.37.55:898][701]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002458def7e80, Size=128
+[2019.03.14-16.37.55:901][701]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.37.55:920][701]LogInit: FAudioDevice initialized.
+[2019.03.14-16.37.55:953][701]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.37.55:955][701]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.37.55
+[2019.03.14-16.37.55:955][701]LogWorld: Bringing up level for play took: 0.001783
+[2019.03.14-16.37.55:956][701]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.37.55:956][701]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.37.55:957][701]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.37.55:957][701]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.37.55:961][701]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.37.55:961][701]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.325
+[2019.03.14-16.37.55:961][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.37.55:961][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.37.55:961][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.37.55:961][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.37.55:962][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.37.56:034][701]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.37.56:034][701]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.37.56:035][701]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.37.56:035][701]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.37.56:035][701]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.37.56:035][701]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.37.56:999][757]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.38.01:215][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.38.01:215][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.38.01:216][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.38.01:216][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.38.01:216][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.38.01:277][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.38.01:278][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.38.01:278][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.38.01:278][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.38.01:278][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.38.02:063][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.38.02:693][226]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.14-16.38.03:060][240]LogEditorViewport: Clicking on Actor (LMB): B_InteractorTracks_C (B_InteractorTracks)
+[2019.03.14-16.38.08:040][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.38.08:293][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.38.08:299][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.38.08:345][500]LogSavePackage: Save=28.20ms
+[2019.03.14-16.38.08:345][500]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks272A3D9449A97C337F0BA1BB045DAE3E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.38.08:346][500]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.38.08:617][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.38.20:526][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.38.20:535][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.38.20:598][359]LogSavePackage: Save=39.18ms
+[2019.03.14-16.38.20:598][359]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks41EC870448698D7F11C0AA8F4B9E4C4C.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.38.20:601][359]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.38.21:609][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.38.25:385][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.38.25:393][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.38.25:480][666]LogSavePackage: Save=52.75ms
+[2019.03.14-16.38.25:480][666]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks798725E74999406018DF18B673622B2E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.38.25:488][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.38.27:614][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.38.35:990][353]LogUObjectGlobals: Created PersistentFrame Addr=0x000002452c062990, Size=4, Default__SKEL_B_InteractorTracks_C Function /Game/B_InteractorTracks.SKEL_B_InteractorTracks_C:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.38.37:030][425]LogEditorTransaction: Undo Promote To Variable
+[2019.03.14-16.38.37:032][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452c062990, Size=4
+[2019.03.14-16.38.37:032][425]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024597ebffa8, Size=4, Default__SKEL_B_InteractorTracks_C Function /Engine/Transient.REINST_SKEL_B_InteractorTracks_C_2459:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.38.37:034][425]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024597ebde10, Size=4, Default__SKEL_B_InteractorTracks_C Function /Game/B_InteractorTracks.SKEL_B_InteractorTracks_C:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.38.40:021][628]BlueprintLog: New page: Compile B_InteractorTracks
+[2019.03.14-16.38.40:028][628]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024597ebde10, Size=4
+[2019.03.14-16.38.40:028][628]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024593715838, Size=4, Default__SKEL_B_InteractorTracks_C Function /Engine/Transient.REINST_SKEL_B_InteractorTracks_C_2461:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.38.40:037][628]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002458def5680, Size=128
+[2019.03.14-16.38.40:037][628]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024581719c80, Size=128, Default__B_InteractorTracks_C Function /Engine/Transient.REINST_B_InteractorTracks_C_2465:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.38.40:041][628]LogUObjectGlobals: Created PersistentFrame Addr=0x000002458171ab00, Size=128, Default__B_InteractorTracks_C Function /Game/B_InteractorTracks.B_InteractorTracks_C:ExecuteUbergraph_B_InteractorTracks
+[2019.03.14-16.38.40:354][628]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024593715838, Size=4
+[2019.03.14-16.38.40:354][628]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024597ebffa8, Size=4
+[2019.03.14-16.38.40:525][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.38.40:531][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.38.40:572][628]LogSavePackage: Save=26.15ms
+[2019.03.14-16.38.40:572][628]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracksCFB73964423F4072F59C10A9FE5695A8.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.38.40:575][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.38.40:661][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.38.40:936][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.38.40:978][634]LogSavePackage: Save=26.78ms
+[2019.03.14-16.38.40:978][634]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks170E66EF4DDBC26C6A13699DD10BD470.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.38.40:981][634]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.38.41:315][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.38.43:009][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.38.43:017][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.38.43:092][760]LogSavePackage: Save=40.60ms
+[2019.03.14-16.38.43:092][760]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracksC437A4FB443A0ED3FDA5FEA3718AF248.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.38.43:100][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.38.43:286][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.38.58:158][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.38.58:163][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.38.58:208][789]LogSavePackage: Save=27.63ms
+[2019.03.14-16.38.58:208][789]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracksF069FD26435A1D4B6750F18567C5274E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.38.58:211][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.38.59:368][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.39.02:761][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.02:770][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.39.02:831][107]LogSavePackage: Save=38.16ms
+[2019.03.14-16.39.02:831][107]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks49FC080C4732893A3BF720B4DA03374A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.39.02:838][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.39.03:781][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.39.06:697][390]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.06:704][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.39.06:753][390]LogSavePackage: Save=33.26ms
+[2019.03.14-16.39.06:753][390]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks268F1D444A76790A60598EBC32D145C1.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.39.06:757][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.39.08:513][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.39.08:621][524]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.39.08:661][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.08:661][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.08:661][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.08:661][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.08:661][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.08:662][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.39.08:662][524]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:39:08)
+[2019.03.14-16.39.08:662][524]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.39.08:664][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002602s)
+[2019.03.14-16.39.08:665][524]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.39.08:665][524]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.03.14-16.39.08:665][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003284s)
+[2019.03.14-16.39.08:682][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024581719c80, Size=128
+[2019.03.14-16.39.08:685][524]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.39.08:705][524]LogInit: FAudioDevice initialized.
+[2019.03.14-16.39.08:735][524]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.39.08:737][524]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.39.08
+[2019.03.14-16.39.08:738][524]LogWorld: Bringing up level for play took: 0.001539
+[2019.03.14-16.39.08:739][524]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.39.08:739][524]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.39.08:739][524]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.39.08:739][524]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.39.08:742][524]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.39.08:743][524]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.457
+[2019.03.14-16.39.08:743][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.08:743][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.08:743][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.08:743][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.08:743][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.08:790][524]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.39.08:790][524]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.39.08:790][524]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.39.08:790][524]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.39.08:790][524]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.39.08:790][524]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.39.09:101][541]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	MainMenuTextOption_C /Engine/Transient.UnrealEdEngine_0:GameInstance_77.MainMenuWidget_C_80.WidgetTree_896.Quit
+	Function /Game/UIWidgets/MainMenuTextOption.MainMenuTextOption_C:ExecuteUbergraph_MainMenuTextOption:03BA
+[2019.03.14-16.39.09:243][547]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.14-16.39.09:248][547]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.14-16.39.09:251][547]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.14-16.39.09:253][547]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-16.39.09:260][547]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.14-16.39.09:261][547]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.14-16.39.09:275][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	MainMenuTextOption_C /Engine/Transient.UnrealEdEngine_0:GameInstance_77.MainMenuWidget_C_80.WidgetTree_896.Quit
+	Function /Game/UIWidgets/MainMenuTextOption.MainMenuTextOption_C:ExecuteUbergraph_MainMenuTextOption:0446
+[2019.03.14-16.39.10:571][668]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.39.10:800][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.11:494][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.11:494][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.11:494][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.11:494][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.11:494][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.11:561][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.11:561][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.11:561][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.11:561][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.11:561][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.12:324][812]LogEditorViewport: Clicking on Actor (LMB): B_InteractorTracks_C (B_InteractorTracks)
+[2019.03.14-16.39.14:630][998]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.14-16.39.15:297][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.39.15:385][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.15:385][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.15:385][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.15:385][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.15:385][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.15:385][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.39.15:385][ 61]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:39:15)
+[2019.03.14-16.39.15:386][ 61]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.39.15:391][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004360s)
+[2019.03.14-16.39.15:391][ 61]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.39.15:392][ 61]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2019.03.14-16.39.15:392][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.005484s)
+[2019.03.14-16.39.15:423][ 61]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.39.15:448][ 61]LogInit: FAudioDevice initialized.
+[2019.03.14-16.39.15:449][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.15:491][ 61]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.39.15:494][ 61]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.39.15
+[2019.03.14-16.39.15:494][ 61]LogWorld: Bringing up level for play took: 0.001870
+[2019.03.14-16.39.15:495][ 61]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.39.15:495][ 61]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.39.15:495][ 61]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.39.15:496][ 61]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.39.15:500][ 61]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.39.15:500][ 61]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.785
+[2019.03.14-16.39.15:500][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.15:501][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.15:501][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.15:501][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.15:501][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.15:572][ 61]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.39.15:572][ 61]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.39.15:572][ 61]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.39.15:572][ 61]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.39.15:572][ 61]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.39.15:573][ 61]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.39.18:846][416]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.39.19:257][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.19:258][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.19:258][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.19:258][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.19:258][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.19:326][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.19:326][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.19:326][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.19:326][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.19:326][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.19:864][473]LogEditorViewport: Clicking on Actor (LMB): B_InteractorTracks_C (B_InteractorTracks)
+[2019.03.14-16.39.21:085][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.39.21:358][576]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.14-16.39.21:360][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.21:374][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.14-16.39.21:463][576]LogSavePackage: Save=55.26ms
+[2019.03.14-16.39.21:463][576]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks05135DB840C222AA8091FDBCA554AE09.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.14-16.39.21:467][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.14-16.39.21:694][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.39.26:292][903]BlueprintLog: New page: Compile B_TrackNode
+[2019.03.14-16.39.26:316][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024558d1ee80, Size=896
+[2019.03.14-16.39.26:316][903]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244b9a55280, Size=896, Default__B_TrackNode_C Function /Engine/Transient.REINST_B_TrackNode_C_2471:ExecuteUbergraph_B_TrackNode
+[2019.03.14-16.39.26:321][903]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024558d1eb00, Size=896, Default__B_TrackNode_C Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode
+[2019.03.14-16.39.32:809][398]BlueprintLog: New page: Compile B_TrackNode
+[2019.03.14-16.39.32:833][398]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024558d1eb00, Size=896
+[2019.03.14-16.39.32:833][398]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024546636b00, Size=896, B_TrackNode_C_4876 Function /Engine/Transient.REINST_B_TrackNode_C_2477:ExecuteUbergraph_B_TrackNode
+[2019.03.14-16.39.32:839][398]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024569e25280, Size=896, Default__B_TrackNode_C Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode
+[2019.03.14-16.39.33:126][398]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244b9a55280, Size=896
+[2019.03.14-16.39.33:661][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_TrackNode" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset" SILENT=true
+[2019.03.14-16.39.33:738][404]LogSavePackage: Save=54.43ms
+[2019.03.14-16.39.33:738][404]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_TrackNode7D6900AD4B23583F789FB6BD95431FB4.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset'
+[2019.03.14-16.39.33:743][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset
+[2019.03.14-16.39.36:098][565]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.39.36:121][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.36:121][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.36:121][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.36:121][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.36:121][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.36:121][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.39.36:121][565]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:39:36)
+[2019.03.14-16.39.36:121][565]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.39.36:123][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002458s)
+[2019.03.14-16.39.36:124][565]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.39.36:124][565]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.03.14-16.39.36:124][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003095s)
+[2019.03.14-16.39.36:138][565]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024546636b00, Size=896
+[2019.03.14-16.39.36:141][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.39.36:160][565]LogInit: FAudioDevice initialized.
+[2019.03.14-16.39.36:193][565]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.39.36:194][565]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.39.36
+[2019.03.14-16.39.36:194][565]LogWorld: Bringing up level for play took: 0.000772
+[2019.03.14-16.39.36:195][565]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.39.36:195][565]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.39.36:195][565]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.39.36:195][565]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.39.36:196][565]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.39.36:196][565]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.088
+[2019.03.14-16.39.36:197][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.36:197][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.36:197][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.36:197][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.36:197][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.36:280][565]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.39.36:280][565]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.39.36:280][565]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.39.36:281][565]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.39.36:281][565]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.39.36:281][565]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.39.39:234][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.39:234][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.39:234][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.39:234][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.39:234][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.39:272][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.39.39:272][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.39.39:272][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.39.39:272][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.39.39:272][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.39.40:252][917]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456e27f8c0, Size=32
+[2019.03.14-16.39.40:252][917]LogUObjectGlobals: Created PersistentFrame Addr=0x000002452664b0c0, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_2481:ExecuteUbergraph_Level1
+[2019.03.14-16.39.40:253][917]LogUObjectGlobals: Created PersistentFrame Addr=0x000002452664a780, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-16.39.40:254][917]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-16.39.40:392][917]LogSavePackage: Save=140.88ms
+[2019.03.14-16.39.40:392][917]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level1D52D0A854B61D8AD47214CB246B35BDE.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-16.39.40:397][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.39.43:841][245]LogSlate: Window 'B_InteractorTracks' being destroyed
+[2019.03.14-16.39.43:845][245]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.14-16.39.49:563][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.54:165][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.55:975][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.39.57:978][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.40.52:355][ 50]LogTexture: Display: Building textures: FlatNormal (BC5, 64X64)
+[2019.03.14-16.40.52:355][ 50]LogTexture: Display: Building textures: glass_blocks (AutoDXT, 1024X1024)
+[2019.03.14-16.40.52:355][ 50]LogMaterial: Missing cached shader map for material MAT_BlurGlass, compiling. 
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.14-16.40.52:450][ 51]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.14-16.40.54:681][229]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.14-16.40.54:950][251]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.14-16.40.57:209][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.40.57:534][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_TrackNode" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset" SILENT=true
+[2019.03.14-16.40.57:620][423]LogSavePackage: Save=63.07ms
+[2019.03.14-16.40.57:620][423]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_TrackNode12D3080949FA508D968F03B98189C0E0.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset'
+[2019.03.14-16.40.57:624][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset
+[2019.03.14-16.41.02:320][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.41.03:457][918]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.41.03:490][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.03:491][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.03:491][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.03:491][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.03:491][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.03:491][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.41.03:491][918]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:41:03)
+[2019.03.14-16.41.03:491][918]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.41.03:494][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003313s)
+[2019.03.14-16.41.03:495][918]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.41.03:495][918]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2019.03.14-16.41.03:495][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004325s)
+[2019.03.14-16.41.03:513][918]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452664b0c0, Size=32
+[2019.03.14-16.41.03:518][918]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.41.03:541][918]LogInit: FAudioDevice initialized.
+[2019.03.14-16.41.03:581][918]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.41.03:582][918]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.41.03
+[2019.03.14-16.41.03:582][918]LogWorld: Bringing up level for play took: 0.001011
+[2019.03.14-16.41.03:583][918]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.41.03:583][918]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.41.03:583][918]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.41.03:583][918]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.41.03:585][918]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.41.03:585][918]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.698
+[2019.03.14-16.41.03:585][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.03:585][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.03:585][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.03:586][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.03:586][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.03:614][918]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.41.03:615][918]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.41.03:615][918]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.41.03:615][918]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.41.03:615][918]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.41.03:615][918]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.41.05:128][ 52]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.41.07:121][268]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.41.07:369][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.41.08:515][401]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.41.08:741][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.41.09:881][542]Cmd: LevelEditor.ToggleImmersive
+[2019.03.14-16.41.10:124][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.14-16.41.10:185][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.10:185][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.10:185][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.10:185][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.10:185][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.10:232][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.10:232][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.10:232][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.10:232][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.10:232][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.11:370][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.41.11:672][668]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452664a780, Size=32
+[2019.03.14-16.41.11:672][668]LogUObjectGlobals: Created PersistentFrame Addr=0x00000244da404480, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_2485:ExecuteUbergraph_Level1
+[2019.03.14-16.41.11:673][668]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456d61e060, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-16.41.11:674][668]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-16.41.11:806][668]LogSavePackage: Save=135.43ms
+[2019.03.14-16.41.11:806][668]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level19A516599408130A243D90498057E8DD1.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-16.41.11:812][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.41.19:903][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244da404480, Size=32
+[2019.03.14-16.41.19:922][493]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456d61e060, Size=32
+[2019.03.14-16.41.19:922][493]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024581475d80, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_2489:ExecuteUbergraph_Level1
+[2019.03.14-16.41.19:923][493]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024581475820, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-16.41.19:923][493]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-16.41.20:094][493]LogSavePackage: Save=174.10ms
+[2019.03.14-16.41.20:095][493]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level1622CE836413A5EF0D1F357A6726C31F3.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-16.41.20:099][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.41.20:817][539]LogEditorViewport: Clicking on Actor (LMB): B_InteractorTracks_C (B_InteractorTracks)
+[2019.03.14-16.41.22:611][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.41.27:026][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.41.30:503][365]LogTexture: Display: Building textures: DroneBustNormal (AutoDXT, 512X512)
+[2019.03.14-16.41.30:503][365]LogTexture: Display: Building textures: DroneBustIllumination (AutoDXT, 512X512)
+[2019.03.14-16.41.30:503][365]LogTexture: Display: Building textures: cfn (BC5, 1024X1024)
+[2019.03.14-16.41.30:503][365]LogTexture: Display: Building textures: DroneBustAmbient_Occlusion (AutoDXT, 512X512)
+[2019.03.14-16.41.30:503][365]LogTexture: Display: Building textures: Camo (AutoDXT, 2048X2048)
+[2019.03.14-16.41.30:503][365]LogMaterial: Missing cached shader map for material MAT_Camo, compiling. 
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.14-16.41.30:560][366]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.14-16.41.32:959][532]LogMaterial: Missing cached shader map for material MAT_Chrome, compiling. 
+[2019.03.14-16.41.32:971][532]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.14-16.41.32:971][532]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.14-16.41.33:021][534]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.14-16.41.33:359][563]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.14-16.41.34:534][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_TrackNode" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset" SILENT=true
+[2019.03.14-16.41.34:592][659]LogSavePackage: Save=41.92ms
+[2019.03.14-16.41.34:592][659]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_TrackNodeFA7B0942476BBDFD4FE4BD81D85834F6.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset'
+[2019.03.14-16.41.34:596][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset
+[2019.03.14-16.41.48:625][971]BlueprintLog: New page: Compile B_TrackNode
+[2019.03.14-16.41.48:650][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024569e25280, Size=896
+[2019.03.14-16.41.48:650][971]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024455c95980, Size=896, Default__B_TrackNode_C Function /Engine/Transient.REINST_B_TrackNode_C_2495:ExecuteUbergraph_B_TrackNode
+[2019.03.14-16.41.48:656][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002454665ab00, Size=896, Default__B_TrackNode_C Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode
+[2019.03.14-16.41.48:917][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024581475d80, Size=32
+[2019.03.14-16.41.49:583][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_TrackNode" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset" SILENT=true
+[2019.03.14-16.41.49:663][  9]LogSavePackage: Save=49.04ms
+[2019.03.14-16.41.49:663][  9]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/B_TrackNode21AB2B6B46F264446DE4D594C8629124.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset'
+[2019.03.14-16.41.49:666][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/B_TrackNode.uasset
+[2019.03.14-16.41.51:045][151]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.14-16.41.51:458][180]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.14-16.41.55:622][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.14-16.41.55:729][547]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.14-16.41.55:753][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.55:753][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.55:753][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.55:753][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.55:753][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.55:753][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.14-16.41.55:753][547]PIE: New page: PIE session: TopDownExampleMap (14 Mar 2019 16:41:55)
+[2019.03.14-16.41.55:753][547]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.14-16.41.55:756][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002767s)
+[2019.03.14-16.41.55:757][547]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.14-16.41.55:757][547]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.03.14-16.41.55:757][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.003618s)
+[2019.03.14-16.41.55:776][547]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.14-16.41.55:793][547]LogInit: FAudioDevice initialized.
+[2019.03.14-16.41.55:829][547]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.14-16.41.55:832][547]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.14-16.41.55
+[2019.03.14-16.41.55:832][547]LogWorld: Bringing up level for play took: 0.001766
+[2019.03.14-16.41.55:833][547]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.41.55:833][547]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.14-16.41.55:833][547]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.41.55:834][547]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.14-16.41.55:838][547]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.14-16.41.55:838][547]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.445
+[2019.03.14-16.41.55:838][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.55:838][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.55:838][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.55:838][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.55:839][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.55:915][547]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.41.55:915][547]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.41.55:915][547]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_0] Hello
+[2019.03.14-16.41.55:916][547]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:03B1
+[2019.03.14-16.41.55:916][547]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable1
+	B_TrackNode_C /Game/Maps/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1
+	Function /Game/B_TrackNode.B_TrackNode_C:ExecuteUbergraph_B_TrackNode:05E8
+[2019.03.14-16.41.55:916][547]LogBlueprintUserMessages: [NODE_AddChildActorComponent-2_B_TrackNode_C_CAT_1] Hello
+[2019.03.14-16.41.58:010][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.58:011][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.58:011][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.58:011][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.58:011][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.58:051][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.14-16.41.58:052][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.14-16.41.58:052][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.14-16.41.58:052][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.14-16.41.58:052][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.14-16.41.58:086][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024455c95980, Size=896
+[2019.03.14-16.51.57:221][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024581475820, Size=32
+[2019.03.14-16.51.57:221][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456c1a65c0, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_2499:ExecuteUbergraph_Level1
+[2019.03.14-16.51.57:222][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000002456c1a52c0, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.14-16.51.57:223][149]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.14-16.51.57:355][149]LogSavePackage: Save=136.34ms
+[2019.03.14-16.51.57:356][149]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level1CA4490BF466AB21BFB184690776C02B9.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.14-16.51.57:364][149]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.14-16.51.58:181][232]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456c1a65c0, Size=32
+[2019.03.14-16.51.58:362][232]LogSlate: Window 'Refraction - Unreal Editor' being destroyed
+[2019.03.14-16.51.58:363][232]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.14-16.51.58:715][233]Cmd: QUIT_EDITOR
+[2019.03.14-16.51.59:014][233]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.14-16.51.59:015][233]LogExit: Preparing to exit.
+[2019.03.14-16.51.59:821][233]LogDirectoryWatcher: A directory notification for 'C:/Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/' was aborted.
+[2019.03.14-16.51.59:887][233]LogExit: Editor shut down
+[2019.03.14-16.51.59:893][233]LogExit: Transaction tracking system shut down
+[2019.03.14-16.51.59:894][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002441fbba390, Size=72
+[2019.03.14-16.51.59:895][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002443caad288, Size=4
+[2019.03.14-16.51.59:901][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024423c54ee0, Size=96
+[2019.03.14-16.51.59:901][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002442075e680, Size=352
+[2019.03.14-16.51.59:901][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024420707200, Size=1600
+[2019.03.14-16.51.59:901][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002442077d580, Size=28
+[2019.03.14-16.51.59:901][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244202a3200, Size=1064
+[2019.03.14-16.51.59:901][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002442025b520, Size=28
+[2019.03.14-16.51.59:901][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024424cd5a80, Size=280
+[2019.03.14-16.51.59:903][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024450ad6e00, Size=48
+[2019.03.14-16.51.59:903][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024529ed3100, Size=168
+[2019.03.14-16.51.59:905][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244a54c0168, Size=4
+[2019.03.14-16.51.59:905][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000244a54c0160, Size=4
+[2019.03.14-16.51.59:907][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002453d9dcb80, Size=776
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024528e6e400, Size=408
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024528e6f740, Size=392
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024559ac6200, Size=744
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024528e6e240, Size=392
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024556eb6400, Size=392
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002458171ab00, Size=128
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002454665ab00, Size=896
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024559ac4100, Size=720
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456d9889c0, Size=392
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002455e1f0100, Size=664
+[2019.03.14-16.51.59:915][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024556eb6e80, Size=392
+[2019.03.14-16.51.59:916][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245907bc840, Size=32
+[2019.03.14-16.51.59:916][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002456c1a52c0, Size=32
+[2019.03.14-16.51.59:916][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245907bf820, Size=32
+[2019.03.14-16.51.59:916][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024565964d80, Size=32
+[2019.03.14-16.51.59:916][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000245a21d2b40, Size=4
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/' was aborted.
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.03.14-16.52.00:034][233]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.03.14-16.52.00:142][233]LogExit: Object subsystem successfully closed.
+[2019.03.14-16.52.00:178][233]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.14-16.52.00:187][233]LogD3D11RHI: Shutdown
+[2019.03.14-16.52.00:187][233]LogD3D11RHI: CleanupD3DDevice
+[2019.03.14-16.52.00:203][233]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (584)
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (582)
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module BlueprintGraph (580)
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module WorldBrowser (574)
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2019.03.14-16.52.00:236][233]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2019.03.14-16.52.00:236][233]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2019.03.14-16.52.00:238][233]LogDirectoryWatcher: A directory notification for 'C:/Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Collections/' was aborted.
+[2019.03.14-16.52.00:238][233]LogDirectoryWatcher: A directory notification for 'C:/Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Developers/q5091352/Collections/' was aborted.
+[2019.03.14-16.52.00:238][233]LogDirectoryWatcher: A directory notification for 'C:/Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Collections/' was aborted.
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.03.14-16.52.00:238][233]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.03.14-16.52.00:239][233]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.03.14-16.52.00:312][233]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.03.14-16.52.00:313][233]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.03.14-16.52.00:387][233]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.03.14-16.52.00:387][233]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.03.14-16.52.00:387][233]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.03.14-16.52.00:387][233]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.03.14-16.52.00:387][233]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.03.14-16.52.00:387][233]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.03.14-16.52.00:387][233]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.03.14-16.52.00:389][233]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.03.14-16.52.00:389][233]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.03.14-16.52.00:389][233]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.03.14-16.52.00:405][233]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.03.14-16.52.00:405][233]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.03.14-16.52.00:408][233]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.03.14-16.52.00:408][233]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.03.14-16.52.00:408][233]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.03.14-16.52.00:408][233]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.03.14-16.52.00:409][233]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.03.14-16.52.00:410][233]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2019.03.14-16.52.00:410][233]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2019.03.14-16.52.00:531][233]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2019.03.14-16.52.00:532][233]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2019.03.14-16.52.00:538][233]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2019.03.14-16.52.00:538][233]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2019.03.14-16.52.00:538][233]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2019.03.14-16.52.00:538][233]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2019.03.14-16.52.00:538][233]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2019.03.14-16.52.00:538][233]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2019.03.14-16.52.00:538][233]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2019.03.14-16.52.00:539][233]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.03.14-16.52.00:540][233]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.03.14-16.52.00:641][233]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.03.14-16.52.00:742][233]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.03.14-16.52.00:742][233]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.03.14-16.52.00:742][233]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.03.14-16.52.00:742][233]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.03.14-16.52.00:742][233]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.03.14-16.52.00:742][233]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.03.14-16.52.00:744][233]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.03.14-16.52.00:744][233]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.03.14-16.52.00:744][233]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.03.14-16.52.00:744][233]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.03.14-16.52.00:745][233]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.03.14-16.52.00:748][233]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.03.14-16.52.00:748][233]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.03.14-16.52.00:748][233]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.03.14-16.52.00:748][233]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.03.14-16.52.01:550][233]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.03.14-16.52.01:550][233]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.03.14-16.52.01:550][233]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.03.14-16.52.01:554][233]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.03.14-16.52.01:561][233]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.03.14-16.52.01:562][233]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.03.14-16.52.01:562][233]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.03.14-16.52.01:562][233]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.03.14-16.52.01:562][233]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.03.14-16.52.01:562][233]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.03.14-16.52.01:566][233]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.03.14-16.52.01:567][233]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.03.14-16.52.01:567][233]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.03.14-16.52.01:569][233]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.03.14-16.52.01:581][233]LogDerivedDataCache: Shutdown
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.03.14-16.52.01:581][233]LogXGEController: Cleaning working directory: C:/Users/q5091352/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.03.14-16.52.01:581][233]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.03.14-16.52.01:582][233]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.03.14-16.52.01:583][233]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.03.14-16.52.01:584][233]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.03.14-16.52.01:584][233]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.14-16.52.01:584][233]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE4FA0296-4ED3-77F4-1F7F-D2974F52DACC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=11c7b84643e0ad32a1f545b0c25cc805%7C%7Cef2869c6-5249-4552-8cdb-b40a1ec50d0b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.14-16.52.01:605][233]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.03.14-16.52.01:607][233]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.14-16.52.01:607][233]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.14-16.52.01:607][233]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.14-16.52.01:607][233]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.14-16.52.01:607][233]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.14-16.52.01:607][233]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.14-16.52.01:607][233]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.14-16.52.01:612][233]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.14-16.52.01:612][233]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.14-16.52.01:612][233]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.14-16.52.01:612][233]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.14-16.52.01:613][233]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.14-16.52.01:613][233]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.14-16.52.01:613][233]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.14-16.52.01:613][233]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.14-16.52.01:613][233]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.14-16.52.01:613][233]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.14-16.52.01:613][233]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.14-16.52.01:637][233]LogExit: Exiting.
+[2019.03.14-16.52.01:685][233]Log file closed, 03/14/19 16:52:01
