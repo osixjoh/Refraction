@@ -1852,3 +1852,17 @@ LogInit: Object subsystem initialized
 [2019.03.17-17.44.20:320][346]LogSavePackage: Save=192.03ms
 [2019.03.17-17.44.20:321][346]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/Level1E84DF21E485DFE812EF175A146927119.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
 [2019.03.17-17.44.20:333][346]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.17-17.45.07:723][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMeshes/SM_TrackChannel" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/MyMeshes/SM_TrackChannel.uasset" SILENT=true
+[2019.03.17-17.45.07:745][953]LogSavePackage: Save=17.43ms
+[2019.03.17-17.45.07:746][953]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/SM_TrackChannel89B5326A4ADFEB761CC53381A15B9735.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/MyMeshes/SM_TrackChannel.uasset'
+[2019.03.17-17.45.07:757][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/MyMeshes/SM_TrackChannel.uasset
+[2019.03.17-17.45.08:197][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_TrackChannel" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/SM_TrackChannel.uasset" SILENT=true
+[2019.03.17-17.45.08:363][953]LogSavePackage: Save=5.63ms
+[2019.03.17-17.45.08:363][953]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/SM_TrackChannelB4402AD04FD33BB101B7E1B98220B0B6.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/SM_TrackChannel.uasset'
+[2019.03.17-17.45.08:375][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/SM_TrackChannel.uasset
+[2019.03.17-17.45.12:693][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_InteractorTracks" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset" SILENT=true
+[2019.03.17-17.45.12:896][ 77]LogSavePackage: Save=43.10ms
+[2019.03.17-17.45.12:896][ 77]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_InteractorTracks800E0B174017FE91430397929CD4F888.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset'
+[2019.03.17-17.45.12:908][ 77]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_InteractorTracks.uasset
+[2019.03.17-17.45.13:005][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019934cde9a0, Size=32
+[2019.03.17-17.45.15:218][ 77]SourceControl: rm 'Refraction/Content/SM_TrackChannel.uasset'
