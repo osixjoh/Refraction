@@ -13354,3 +13354,591 @@ LogInit: Object subsystem initialized
 [2019.03.19-17.02.07:507][950]LogSavePackage: Save=9.72ms
 [2019.03.19-17.02.07:507][950]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap_BuiltDataA21F5C9B4552B4D4507A0FACC4D8D387.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
 [2019.03.19-17.02.07:513][950]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2019.03.19-17.03.15:272][812]LogEditorViewport: Clicking on Actor (LMB): B_Room_C (B_TowerRoom)
+[2019.03.19-17.03.16:360][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-17.03.19:794][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fd5bce28, Size=4
+[2019.03.19-17.03.20:887][ 60]LogSlate: Window 'Save Content' being destroyed
+[2019.03.19-17.03.22:067][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fcb4d960, Size=32
+[2019.03.19-17.03.22:067][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8fdbdd6a0, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_244:ExecuteUbergraph_Level1
+[2019.03.19-17.03.22:069][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8fdbdd540, Size=32, Default__Level1_C Function /Game/Maps/Levels/Level1.Level1_C:ExecuteUbergraph_Level1
+[2019.03.19-17.03.22:070][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level1, Actor: /Game/Maps/Levels/Level1.Level1:PersistentLevel.REINST_Level1_C_0
+[2019.03.19-17.03.22:273][ 60]LogSavePackage: Save=208.65ms
+[2019.03.19-17.03.22:273][ 60]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/Level1F011AEE34F235318B7D56CA83170F0B2.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.19-17.03.22:286][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.19-17.03.22:291][ 60]LogFileHelpers: Saving map 'Level1' took 0.683
+[2019.03.19-17.03.22:540][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fdbdd6a0, Size=32
+[2019.03.19-17.03.22:748][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fcb4fd80, Size=32
+[2019.03.19-17.03.22:748][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8fdbdd040, Size=32, Default__Level2_C Function /Engine/Transient.REINST_Level2_C_248:ExecuteUbergraph_Level2
+[2019.03.19-17.03.22:750][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8fdbdc0a0, Size=32, Default__Level2_C Function /Game/Maps/Levels/Level2.Level2_C:ExecuteUbergraph_Level2
+[2019.03.19-17.03.22:751][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level2, Actor: /Game/Maps/Levels/Level2.Level2:PersistentLevel.REINST_Level2_C_0
+[2019.03.19-17.03.22:888][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.B_Receiver_394.SymbolEmitter
+[2019.03.19-17.03.22:888][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.B_Receiver2_801.SymbolEmitter
+[2019.03.19-17.03.22:889][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.B_Receiver_394.SymbolEmitter
+[2019.03.19-17.03.22:890][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.B_Receiver2_801.SymbolEmitter
+[2019.03.19-17.03.22:892][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level2, Actor: /Game/Maps/Levels/Level2.Level2:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_50
+[2019.03.19-17.03.22:892][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level2, Actor: /Game/Maps/Levels/Level2.Level2:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_51
+[2019.03.19-17.03.22:893][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level2, Actor: /Game/Maps/Levels/Level2.Level2:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_52
+[2019.03.19-17.03.22:895][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.LightBeam
+[2019.03.19-17.03.22:895][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.RedBeam
+[2019.03.19-17.03.22:895][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.OrangeBeam
+[2019.03.19-17.03.22:895][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.YellowBeam
+[2019.03.19-17.03.22:895][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.GreenBeam
+[2019.03.19-17.03.22:895][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.BlueBeam
+[2019.03.19-17.03.22:896][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.IndigoBeam
+[2019.03.19-17.03.22:896][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_53.VioletBeam
+[2019.03.19-17.03.22:896][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.LightBeam
+[2019.03.19-17.03.22:896][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.RedBeam
+[2019.03.19-17.03.22:897][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.OrangeBeam
+[2019.03.19-17.03.22:897][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.YellowBeam
+[2019.03.19-17.03.22:897][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.GreenBeam
+[2019.03.19-17.03.22:897][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.BlueBeam
+[2019.03.19-17.03.22:897][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.IndigoBeam
+[2019.03.19-17.03.22:897][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_54.VioletBeam
+[2019.03.19-17.03.22:898][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.LightBeam
+[2019.03.19-17.03.22:898][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.RedBeam
+[2019.03.19-17.03.22:898][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.OrangeBeam
+[2019.03.19-17.03.22:898][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.YellowBeam
+[2019.03.19-17.03.22:898][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.GreenBeam
+[2019.03.19-17.03.22:899][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.BlueBeam
+[2019.03.19-17.03.22:899][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.IndigoBeam
+[2019.03.19-17.03.22:899][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_55.VioletBeam
+[2019.03.19-17.03.22:900][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.B_Emitter_447.ParticleSystem
+[2019.03.19-17.03.22:900][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.B_Emitter_447.ParticleSystem
+[2019.03.19-17.03.22:900][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level2.Level2:PersistentLevel.B_Emitter_447.ParticleSystem
+[2019.03.19-17.03.22:990][ 60]LogSavePackage: Save=243.76ms
+[2019.03.19-17.03.22:990][ 60]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/Level2CB1E815C4249F6049DFD5D8496230228.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level2.umap'
+[2019.03.19-17.03.23:005][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level2, Actor: /Game/Maps/Levels/Level2.Level2:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_56
+[2019.03.19-17.03.23:005][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level2, Actor: /Game/Maps/Levels/Level2.Level2:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_57
+[2019.03.19-17.03.23:005][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level2, Actor: /Game/Maps/Levels/Level2.Level2:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_58
+[2019.03.19-17.03.23:006][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level2.umap
+[2019.03.19-17.03.23:019][ 60]LogFileHelpers: Saving map 'Level2' took 0.725
+[2019.03.19-17.03.23:252][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fdbdd040, Size=32
+[2019.03.19-17.03.23:442][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fcc99cc0, Size=32
+[2019.03.19-17.03.23:443][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8fe276ae0, Size=32, Default__Level3_C Function /Engine/Transient.REINST_Level3_C_252:ExecuteUbergraph_Level3
+[2019.03.19-17.03.23:444][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8fe275540, Size=32, Default__Level3_C Function /Game/Maps/Levels/Level3.Level3_C:ExecuteUbergraph_Level3
+[2019.03.19-17.03.23:445][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level3, Actor: /Game/Maps/Levels/Level3.Level3:PersistentLevel.REINST_Level3_C_0
+[2019.03.19-17.03.23:561][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.B_Receiver2.SymbolEmitter
+[2019.03.19-17.03.23:562][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.B_Receiver3.SymbolEmitter
+[2019.03.19-17.03.23:563][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.B_Receiver2.SymbolEmitter
+[2019.03.19-17.03.23:564][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.B_Receiver3.SymbolEmitter
+[2019.03.19-17.03.23:565][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level3, Actor: /Game/Maps/Levels/Level3.Level3:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_4149
+[2019.03.19-17.03.23:565][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level3, Actor: /Game/Maps/Levels/Level3.Level3:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_4150
+[2019.03.19-17.03.23:566][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level3, Actor: /Game/Maps/Levels/Level3.Level3:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_4151
+[2019.03.19-17.03.23:567][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.LightBeam
+[2019.03.19-17.03.23:567][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.RedBeam
+[2019.03.19-17.03.23:567][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.OrangeBeam
+[2019.03.19-17.03.23:567][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.YellowBeam
+[2019.03.19-17.03.23:567][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.GreenBeam
+[2019.03.19-17.03.23:568][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.BlueBeam
+[2019.03.19-17.03.23:568][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.IndigoBeam
+[2019.03.19-17.03.23:568][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4152.VioletBeam
+[2019.03.19-17.03.23:568][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.LightBeam
+[2019.03.19-17.03.23:568][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.RedBeam
+[2019.03.19-17.03.23:569][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.OrangeBeam
+[2019.03.19-17.03.23:569][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.YellowBeam
+[2019.03.19-17.03.23:569][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.GreenBeam
+[2019.03.19-17.03.23:569][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.BlueBeam
+[2019.03.19-17.03.23:569][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.IndigoBeam
+[2019.03.19-17.03.23:569][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4153.VioletBeam
+[2019.03.19-17.03.23:570][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.LightBeam
+[2019.03.19-17.03.23:570][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.RedBeam
+[2019.03.19-17.03.23:570][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.OrangeBeam
+[2019.03.19-17.03.23:570][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.YellowBeam
+[2019.03.19-17.03.23:570][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.GreenBeam
+[2019.03.19-17.03.23:570][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.BlueBeam
+[2019.03.19-17.03.23:571][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.IndigoBeam
+[2019.03.19-17.03.23:571][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_4154.VioletBeam
+[2019.03.19-17.03.23:572][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.19-17.03.23:572][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.19-17.03.23:572][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level3.Level3:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.19-17.03.23:643][ 60]LogSavePackage: Save=202.61ms
+[2019.03.19-17.03.23:643][ 60]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/Level30D68D98A476B83AD3ABB659C4E34AC82.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level3.umap'
+[2019.03.19-17.03.23:656][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level3, Actor: /Game/Maps/Levels/Level3.Level3:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_4155
+[2019.03.19-17.03.23:656][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level3, Actor: /Game/Maps/Levels/Level3.Level3:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_4156
+[2019.03.19-17.03.23:656][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level3, Actor: /Game/Maps/Levels/Level3.Level3:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_4157
+[2019.03.19-17.03.23:657][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level3.umap
+[2019.03.19-17.03.23:669][ 60]LogFileHelpers: Saving map 'Level3' took 0.648
+[2019.03.19-17.03.23:958][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fe276ae0, Size=32
+[2019.03.19-17.03.24:189][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c904163e20, Size=32
+[2019.03.19-17.03.24:189][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8feedac60, Size=32, Default__Level4_C Function /Engine/Transient.REINST_Level4_C_256:ExecuteUbergraph_Level4
+[2019.03.19-17.03.24:191][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8feed8520, Size=32, Default__Level4_C Function /Game/Maps/Levels/Level4.Level4_C:ExecuteUbergraph_Level4
+[2019.03.19-17.03.24:192][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level4, Actor: /Game/Maps/Levels/Level4.Level4:PersistentLevel.REINST_Level4_C_0
+[2019.03.19-17.03.24:328][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Receiver2.SymbolEmitter
+[2019.03.19-17.03.24:328][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Receiver3.SymbolEmitter
+[2019.03.19-17.03.24:329][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Receiver2.SymbolEmitter
+[2019.03.19-17.03.24:330][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Receiver3.SymbolEmitter
+[2019.03.19-17.03.24:331][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level4, Actor: /Game/Maps/Levels/Level4.Level4:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_2788
+[2019.03.19-17.03.24:331][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level4, Actor: /Game/Maps/Levels/Level4.Level4:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_2789
+[2019.03.19-17.03.24:332][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level4, Actor: /Game/Maps/Levels/Level4.Level4:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_2790
+[2019.03.19-17.03.24:333][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.LightBeam
+[2019.03.19-17.03.24:333][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.RedBeam
+[2019.03.19-17.03.24:333][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.OrangeBeam
+[2019.03.19-17.03.24:334][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.YellowBeam
+[2019.03.19-17.03.24:334][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.GreenBeam
+[2019.03.19-17.03.24:334][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.BlueBeam
+[2019.03.19-17.03.24:334][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.IndigoBeam
+[2019.03.19-17.03.24:334][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2791.VioletBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.LightBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.RedBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.OrangeBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.YellowBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.GreenBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.BlueBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.IndigoBeam
+[2019.03.19-17.03.24:335][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2792.VioletBeam
+[2019.03.19-17.03.24:336][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.LightBeam
+[2019.03.19-17.03.24:336][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.RedBeam
+[2019.03.19-17.03.24:336][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.OrangeBeam
+[2019.03.19-17.03.24:336][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.YellowBeam
+[2019.03.19-17.03.24:336][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.GreenBeam
+[2019.03.19-17.03.24:337][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.BlueBeam
+[2019.03.19-17.03.24:337][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.IndigoBeam
+[2019.03.19-17.03.24:337][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_2793.VioletBeam
+[2019.03.19-17.03.24:338][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Filter_407.ParticleSystem
+[2019.03.19-17.03.24:339][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.19-17.03.24:339][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.19-17.03.24:339][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level4.Level4:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.19-17.03.24:423][ 60]LogSavePackage: Save=235.85ms
+[2019.03.19-17.03.24:423][ 60]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/Level4492E85E24934CA78BE52F1B4D6D36FBA.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level4.umap'
+[2019.03.19-17.03.24:442][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level4, Actor: /Game/Maps/Levels/Level4.Level4:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_2794
+[2019.03.19-17.03.24:442][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level4, Actor: /Game/Maps/Levels/Level4.Level4:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_2795
+[2019.03.19-17.03.24:443][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level4, Actor: /Game/Maps/Levels/Level4.Level4:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_2796
+[2019.03.19-17.03.24:443][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level4.umap
+[2019.03.19-17.03.24:459][ 60]LogFileHelpers: Saving map 'Level4' took 0.787
+[2019.03.19-17.03.24:771][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8feedac60, Size=32
+[2019.03.19-17.03.24:966][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c92aad2f80, Size=32
+[2019.03.19-17.03.24:966][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8feed8f40, Size=32, Default__Level5_C Function /Engine/Transient.REINST_Level5_C_260:ExecuteUbergraph_Level5
+[2019.03.19-17.03.24:968][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8feed88c0, Size=32, Default__Level5_C Function /Game/Maps/Levels/Level5.Level5_C:ExecuteUbergraph_Level5
+[2019.03.19-17.03.24:969][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.REINST_Level5_C_0
+[2019.03.19-17.03.25:095][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.B_Mirror5.SymbolEmitter
+[2019.03.19-17.03.25:095][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.B_Mirror6.SymbolEmitter
+[2019.03.19-17.03.25:095][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.B_Mirror5.SymbolEmitter
+[2019.03.19-17.03.25:096][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.B_Mirror6.SymbolEmitter
+[2019.03.19-17.03.25:097][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1152
+[2019.03.19-17.03.25:098][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1153
+[2019.03.19-17.03.25:098][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1154
+[2019.03.19-17.03.25:099][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.LightBeam
+[2019.03.19-17.03.25:099][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.RedBeam
+[2019.03.19-17.03.25:099][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.OrangeBeam
+[2019.03.19-17.03.25:100][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.YellowBeam
+[2019.03.19-17.03.25:100][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.GreenBeam
+[2019.03.19-17.03.25:100][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.BlueBeam
+[2019.03.19-17.03.25:100][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.IndigoBeam
+[2019.03.19-17.03.25:100][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1155.VioletBeam
+[2019.03.19-17.03.25:101][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.LightBeam
+[2019.03.19-17.03.25:101][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.RedBeam
+[2019.03.19-17.03.25:101][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.OrangeBeam
+[2019.03.19-17.03.25:101][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.YellowBeam
+[2019.03.19-17.03.25:101][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.GreenBeam
+[2019.03.19-17.03.25:101][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.BlueBeam
+[2019.03.19-17.03.25:101][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.IndigoBeam
+[2019.03.19-17.03.25:102][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1156.VioletBeam
+[2019.03.19-17.03.25:102][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.LightBeam
+[2019.03.19-17.03.25:102][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.RedBeam
+[2019.03.19-17.03.25:102][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.OrangeBeam
+[2019.03.19-17.03.25:103][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.YellowBeam
+[2019.03.19-17.03.25:103][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.GreenBeam
+[2019.03.19-17.03.25:103][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.BlueBeam
+[2019.03.19-17.03.25:103][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.IndigoBeam
+[2019.03.19-17.03.25:103][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1157.VioletBeam
+[2019.03.19-17.03.25:104][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.B_Emitter3.ParticleSystem
+[2019.03.19-17.03.25:105][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.B_Emitter3.ParticleSystem
+[2019.03.19-17.03.25:105][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.B_Emitter3.ParticleSystem
+[2019.03.19-17.03.25:105][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1158
+[2019.03.19-17.03.25:106][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.LightBeam
+[2019.03.19-17.03.25:106][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.RedBeam
+[2019.03.19-17.03.25:106][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.OrangeBeam
+[2019.03.19-17.03.25:107][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.YellowBeam
+[2019.03.19-17.03.25:107][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.GreenBeam
+[2019.03.19-17.03.25:107][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.BlueBeam
+[2019.03.19-17.03.25:107][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.IndigoBeam
+[2019.03.19-17.03.25:107][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1159.VioletBeam
+[2019.03.19-17.03.25:108][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1160
+[2019.03.19-17.03.25:108][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.LightBeam
+[2019.03.19-17.03.25:109][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.RedBeam
+[2019.03.19-17.03.25:109][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.OrangeBeam
+[2019.03.19-17.03.25:109][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.YellowBeam
+[2019.03.19-17.03.25:109][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.GreenBeam
+[2019.03.19-17.03.25:109][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.BlueBeam
+[2019.03.19-17.03.25:109][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.IndigoBeam
+[2019.03.19-17.03.25:110][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1077.VioletBeam
+[2019.03.19-17.03.25:111][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1161
+[2019.03.19-17.03.25:112][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.LightBeam
+[2019.03.19-17.03.25:112][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.RedBeam
+[2019.03.19-17.03.25:113][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.OrangeBeam
+[2019.03.19-17.03.25:113][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.YellowBeam
+[2019.03.19-17.03.25:113][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.GreenBeam
+[2019.03.19-17.03.25:113][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.BlueBeam
+[2019.03.19-17.03.25:113][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.IndigoBeam
+[2019.03.19-17.03.25:113][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1162.VioletBeam
+[2019.03.19-17.03.25:114][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1163
+[2019.03.19-17.03.25:115][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.LightBeam
+[2019.03.19-17.03.25:115][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_0_Red.Beam_0_Red Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.RedBeam
+[2019.03.19-17.03.25:115][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_1_Orange.Beam_1_Orange Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.OrangeBeam
+[2019.03.19-17.03.25:115][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_2_Yellow.Beam_2_Yellow Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.YellowBeam
+[2019.03.19-17.03.25:116][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_3_Green.Beam_3_Green Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.GreenBeam
+[2019.03.19-17.03.25:116][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_4_Blue.Beam_4_Blue Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.BlueBeam
+[2019.03.19-17.03.25:116][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_5_Indigo.Beam_5_Indigo Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.IndigoBeam
+[2019.03.19-17.03.25:116][ 60]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/AllBeams/Beam_6_Violet.Beam_6_Violet Component=/Game/Maps/Levels/Level5.Level5:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1079.VioletBeam
+[2019.03.19-17.03.25:210][ 60]LogSavePackage: Save=245.38ms
+[2019.03.19-17.03.25:210][ 60]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/Level5EDD272DA4CB134ED4F0027B36084B878.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level5.umap'
+[2019.03.19-17.03.25:223][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1164
+[2019.03.19-17.03.25:223][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1165
+[2019.03.19-17.03.25:223][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1166
+[2019.03.19-17.03.25:223][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1167
+[2019.03.19-17.03.25:224][ 60]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Level5, Actor: /Game/Maps/Levels/Level5.Level5:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1168
+[2019.03.19-17.03.25:224][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level5.umap
+[2019.03.19-17.03.25:234][ 60]LogFileHelpers: Saving map 'Level5' took 0.771
+[2019.03.19-17.03.25:476][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.19-17.03.25:540][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.19-17.03.25:603][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.19-17.03.25:667][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.19-17.03.25:733][ 60]LogSlate: Window 'Refraction - Unreal Editor' being destroyed
+[2019.03.19-17.03.26:045][ 61]Cmd: QUIT_EDITOR
+[2019.03.19-17.03.26:961][ 61]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.19-17.03.26:979][ 61]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.19-17.03.26:979][ 61]LogExit: Preparing to exit.
+[2019.03.19-17.03.27:744][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/' was aborted.
+[2019.03.19-17.03.27:902][ 61]LogExit: Editor shut down
+[2019.03.19-17.03.27:934][ 61]LogExit: Transaction tracking system shut down
+[2019.03.19-17.03.27:936][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c808fbc130, Size=72
+[2019.03.19-17.03.27:954][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80cd944a0, Size=28
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80dd03380, Size=576
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80dcc6400, Size=1064
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80dc8af00, Size=28
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80dd01800, Size=616
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80dd01580, Size=576
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80d0949c0, Size=4
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80cdcc540, Size=280
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80cdcc2c0, Size=312
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80db7eec0, Size=176
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80db2fe80, Size=352
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80db1f900, Size=1696
+[2019.03.19-17.03.27:955][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80db73740, Size=272
+[2019.03.19-17.03.27:959][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80db3dc90, Size=48
+[2019.03.19-17.03.28:043][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fc275760, Size=4
+[2019.03.19-17.03.28:043][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fc275758, Size=4
+[2019.03.19-17.03.28:045][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81ca8ba00, Size=744
+[2019.03.19-17.03.28:045][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c924595080, Size=576
+[2019.03.19-17.03.28:058][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81c661000, Size=672
+[2019.03.19-17.03.28:058][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81c617d80, Size=576
+[2019.03.19-17.03.28:058][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c9368d4b80, Size=792
+[2019.03.19-17.03.28:058][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c936746980, Size=576
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c935865600, Size=776
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8feed8f40, Size=32
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fdbdc0a0, Size=32
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8feed88c0, Size=32
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8feed8520, Size=32
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fe275540, Size=32
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fdbdd540, Size=32
+[2019.03.19-17.03.28:059][ 61]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8fd5bce78, Size=4
+[2019.03.19-17.03.28:329][ 61]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.03.19-17.03.28:329][ 61]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/' was aborted.
+[2019.03.19-17.03.28:330][ 61]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.03.19-17.03.28:330][ 61]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.03.19-17.03.28:330][ 61]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.03.19-17.03.28:330][ 61]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.03.19-17.03.28:330][ 61]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.03.19-17.03.28:330][ 61]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.03.19-17.03.28:504][ 61]LogExit: Object subsystem successfully closed.
+[2019.03.19-17.03.28:533][ 61]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.19-17.03.28:535][ 61]LogD3D11RHI: Shutdown
+[2019.03.19-17.03.28:535][ 61]LogD3D11RHI: CleanupD3DDevice
+[2019.03.19-17.03.28:544][ 61]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module BlueprintGraph (584)
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (582)
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (578)
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module WorldBrowser (574)
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2019.03.19-17.03.28:600][ 61]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2019.03.19-17.03.28:601][ 61]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2019.03.19-17.03.28:608][ 61]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2019.03.19-17.03.28:608][ 61]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2019.03.19-17.03.28:608][ 61]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2019.03.19-17.03.28:608][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Collections/' was aborted.
+[2019.03.19-17.03.28:608][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Developers/Osixjoh/Collections/' was aborted.
+[2019.03.19-17.03.28:609][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/Collections/' was aborted.
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.03.19-17.03.28:609][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.03.19-17.03.28:610][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.03.19-17.03.28:611][ 61]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.03.19-17.03.28:612][ 61]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.03.19-17.03.28:612][ 61]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.03.19-17.03.28:612][ 61]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.03.19-17.03.28:612][ 61]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.03.19-17.03.28:612][ 61]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.03.19-17.03.28:776][ 61]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.03.19-17.03.28:777][ 61]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.03.19-17.03.28:777][ 61]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.03.19-17.03.28:777][ 61]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.03.19-17.03.28:777][ 61]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.03.19-17.03.28:777][ 61]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.03.19-17.03.28:777][ 61]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.03.19-17.03.28:777][ 61]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.03.19-17.03.28:843][ 61]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.03.19-17.03.28:852][ 61]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.03.19-17.03.28:852][ 61]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.03.19-17.03.28:854][ 61]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2019.03.19-17.03.28:855][ 61]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2019.03.19-17.03.29:042][ 61]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2019.03.19-17.03.29:043][ 61]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2019.03.19-17.03.29:050][ 61]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2019.03.19-17.03.29:051][ 61]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2019.03.19-17.03.29:051][ 61]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.03.19-17.03.29:051][ 61]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.03.19-17.03.29:051][ 61]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.03.19-17.03.29:051][ 61]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.03.19-17.03.29:051][ 61]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.03.19-17.03.29:051][ 61]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2019.03.19-17.03.29:052][ 61]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.03.19-17.03.29:053][ 61]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.03.19-17.03.29:154][ 61]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.03.19-17.03.29:255][ 61]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.03.19-17.03.29:255][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.03.19-17.03.29:255][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.03.19-17.03.29:255][ 61]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.03.19-17.03.29:255][ 61]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.03.19-17.03.29:255][ 61]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.03.19-17.03.29:258][ 61]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.03.19-17.03.29:258][ 61]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.03.19-17.03.29:259][ 61]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.03.19-17.03.29:259][ 61]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.03.19-17.03.29:260][ 61]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.03.19-17.03.29:264][ 61]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.03.19-17.03.29:264][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.03.19-17.03.29:264][ 61]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.03.19-17.03.29:264][ 61]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.03.19-17.03.30:123][ 61]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.03.19-17.03.30:123][ 61]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.03.19-17.03.30:123][ 61]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.03.19-17.03.30:124][ 61]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.03.19-17.03.30:131][ 61]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.03.19-17.03.30:132][ 61]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.03.19-17.03.30:132][ 61]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.03.19-17.03.30:132][ 61]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.03.19-17.03.30:132][ 61]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.03.19-17.03.30:134][ 61]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.03.19-17.03.30:135][ 61]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.03.19-17.03.30:135][ 61]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.03.19-17.03.30:135][ 61]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.03.19-17.03.30:135][ 61]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.03.19-17.03.30:135][ 61]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.03.19-17.03.30:135][ 61]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.03.19-17.03.30:135][ 61]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.03.19-17.03.30:144][ 61]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.03.19-17.03.30:220][ 61]LogDerivedDataCache: Shutdown
+[2019.03.19-17.03.30:220][ 61]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.03.19-17.03.30:220][ 61]LogXGEController: Cleaning working directory: C:/Users/Osixjoh/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.19-17.03.30:220][ 61]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.03.19-17.03.30:221][ 61]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.03.19-17.03.30:222][ 61]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.03.19-17.03.30:223][ 61]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.03.19-17.03.30:223][ 61]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.19-17.03.30:223][ 61]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5D9AA7DB-4F61-315C-8B66-A79B5F9522AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=6412899d4903e07f24c6e29734910d63%7Cbf1dde592aa6410985931c6d0875c514%7C1c3ea8c7-ed40-4a73-9efc-69780e59d8ba&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.19-17.03.30:244][ 61]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.03.19-17.03.30:245][ 61]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.19-17.03.30:245][ 61]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.19-17.03.30:245][ 61]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.19-17.03.30:245][ 61]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.19-17.03.30:245][ 61]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.19-17.03.30:245][ 61]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.19-17.03.30:245][ 61]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.19-17.03.30:247][ 61]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.19-17.03.30:247][ 61]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.19-17.03.30:247][ 61]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.19-17.03.30:248][ 61]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.19-17.03.30:255][ 61]LogExit: Exiting.
+[2019.03.19-17.03.30:280][ 61]Log file closed, 03/19/19 17:03:30
