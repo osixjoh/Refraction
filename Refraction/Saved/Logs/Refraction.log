@@ -3601,3 +3601,262 @@ Make sure 'LevelFailWidget_C' has been compiled for  Move to Next Level
 [2019.03.19-08.47.39:345][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level4.umap
 [2019.03.19-08.47.39:350][955]LogFileHelpers: Saving map 'Level4' took 0.617
 [2019.03.19-08.48.37:685][630]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab8328640, Size=32
+[2019.03.19-08.52.35:976][656]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d7610, Size=4
+[2019.03.19-08.52.35:976][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aac150f168, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_682:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.52.35:977][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aac150cdf0, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.52.36:134][656]LogSavePackage: Save=160.70ms
+[2019.03.19-08.52.36:134][656]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapAB06EC074ED98BE6A96029B824A0D5E1.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.19-08.52.36:148][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.19-08.52.36:632][656]LogSavePackage: Save=10.67ms
+[2019.03.19-08.52.36:632][656]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap_BuiltData3BAFEDCE40B0BB37F6074389A67D0232.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.19-08.52.36:638][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2019.03.19-08.52.37:532][727]LogEditorViewport: Clicking on Actor (LMB): B_InteractorTracks_C (B_InteractorTracks)
+[2019.03.19-08.52.38:247][774]Cmd: DELETE
+[2019.03.19-08.52.38:247][774]Cmd: ACTOR DELETE
+[2019.03.19-08.52.38:251][774]LogEditorActor: Deleted Actor: B_InteractorTracks_C
+[2019.03.19-08.52.38:272][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aac150f168, Size=4
+[2019.03.19-08.52.38:273][774]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.03.19-08.52.39:438][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.52.39:989][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aac150cdf0, Size=4
+[2019.03.19-08.52.39:989][881]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab98b60d0, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_686:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.52.39:990][881]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab98b72b8, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.52.40:147][881]LogSavePackage: Save=159.90ms
+[2019.03.19-08.52.40:147][881]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap7621C988496C1E95FD5BC69002583648.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.19-08.52.40:160][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.19-08.52.40:631][881]LogSavePackage: Save=11.92ms
+[2019.03.19-08.52.40:631][881]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap_BuiltData9628654642327185891D8F8825DCF28C.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.19-08.52.40:638][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2019.03.19-08.53.18:697][330]LogEditorViewport: Clicking on Actor (LMB): B_NewReceiver_C (B_Mirror5)
+[2019.03.19-08.53.29:384][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.53.30:037][126]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.19-08.53.30:155][127]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.19-08.53.53:145][255]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa921d60c8, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.04:049][508]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d60c8, Size=4
+[2019.03.19-08.54.04:049][508]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa8c228478, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_690:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.04:053][508]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa8c22baa8, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.19:383][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa8c22baa8, Size=4
+[2019.03.19-08.54.19:383][224]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa921d6eb8, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_692:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.19:388][224]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa921d4fb8, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.20:999][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d4fb8, Size=4
+[2019.03.19-08.54.20:999][393]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa921d4fb8, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_694:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.21:003][393]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa921d57a0, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.22:014][487]BlueprintLog: New page: Compile B_NewReceiver
+[2019.03.19-08.54.22:034][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d57a0, Size=4
+[2019.03.19-08.54.22:034][487]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa8c2292b8, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_696:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.22:062][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aac7586b00, Size=440
+[2019.03.19-08.54.22:062][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aad0f82e80, Size=576
+[2019.03.19-08.54.22:062][487]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aabe6765c0, Size=440, Default__B_NewReceiver_C Function /Engine/Transient.REINST_B_NewReceiver_C_700:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.22:062][487]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae0676c00, Size=576, Default__B_NewReceiver_C Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.54.22:074][487]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aabe625440, Size=432, Default__B_NewReceiver_C Function /Game/B_NewReceiver.B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.22:074][487]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae068d080, Size=576, Default__B_NewReceiver_C Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.54.23:016][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d6eb8, Size=4
+[2019.03.19-08.54.23:016][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa8c2292b8, Size=4
+[2019.03.19-08.54.23:017][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d4fb8, Size=4
+[2019.03.19-08.54.23:017][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa8c228478, Size=4
+[2019.03.19-08.54.23:017][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab98b60d0, Size=4
+[2019.03.19-08.54.23:867][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.54.24:129][536]LogSavePackage: Save=79.24ms
+[2019.03.19-08.54.24:129][536]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver732087734A1B884FF2600D827D41A8EA.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.54.24:142][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.54.24:927][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa921d4640, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.53:144][759]BlueprintLog: New page: Compile B_NewReceiver
+[2019.03.19-08.54.53:164][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d4640, Size=4
+[2019.03.19-08.54.53:164][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab98b51c0, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_704:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.53:193][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aabe625440, Size=432
+[2019.03.19-08.54.53:193][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aae068d080, Size=576
+[2019.03.19-08.54.53:193][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aac0cea780, Size=432, B_NewReceiver_C_142 Function /Engine/Transient.REINST_B_NewReceiver_C_708:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.53:193][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae070d300, Size=576, B_NewReceiver_C_142 Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.54.53:206][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aaced99000, Size=480, Default__B_NewReceiver_C Function /Game/B_NewReceiver.B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.54.53:206][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae068da80, Size=576, Default__B_NewReceiver_C Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.54.54:130][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aabe6765c0, Size=440
+[2019.03.19-08.54.54:130][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aae0676c00, Size=576
+[2019.03.19-08.54.54:130][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab98b51c0, Size=4
+[2019.03.19-08.54.54:464][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.54.54:720][759]LogSavePackage: Save=82.45ms
+[2019.03.19-08.54.54:720][759]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver76C72F4440543D5F60812E91C6C90A93.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.54.54:733][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.54.55:282][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.54.55:555][778]LogSavePackage: Save=79.95ms
+[2019.03.19-08.54.55:555][778]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver39B45D80466CFDC6FE9287A5A30643B9.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.54.55:560][778]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.55.04:833][766]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa921d65c8, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.05:699][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.55.06:405][922]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa921d65c8, Size=4
+[2019.03.19-08.55.06:405][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab98b4c90, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_712:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.06:411][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab98b4488, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.09:007][188]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab98b4488, Size=4
+[2019.03.19-08.55.09:007][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab98b4488, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_714:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.09:012][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab98b52b8, Size=4, Default__SKEL_B_NewReceiver_C Function /Game/B_NewReceiver.SKEL_B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.35:792][197]BlueprintLog: New page: Compile B_NewReceiver
+[2019.03.19-08.55.35:815][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab98b52b8, Size=4
+[2019.03.19-08.55.35:815][197]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa8c22ad58, Size=4, Default__SKEL_B_NewReceiver_C Function /Engine/Transient.REINST_SKEL_B_NewReceiver_C_716:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.35:847][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aaced99000, Size=480
+[2019.03.19-08.55.35:847][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aae068da80, Size=576
+[2019.03.19-08.55.35:847][197]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa3fb0cc00, Size=480, Default__B_NewReceiver_C Function /Engine/Transient.REINST_B_NewReceiver_C_720:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.35:847][197]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa9642b100, Size=576, Default__B_NewReceiver_C Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.55.35:861][197]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa3fb0f800, Size=480, Default__B_NewReceiver_C Function /Game/B_NewReceiver.B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.55.35:862][197]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae2b8b380, Size=576, Default__B_NewReceiver_C Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.55.36:836][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa8c22ad58, Size=4
+[2019.03.19-08.55.36:836][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aac0cea780, Size=432
+[2019.03.19-08.55.36:836][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aae070d300, Size=576
+[2019.03.19-08.55.36:836][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab98b4488, Size=4
+[2019.03.19-08.55.36:836][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab98b4c90, Size=4
+[2019.03.19-08.55.37:160][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.55.37:415][197]LogSavePackage: Save=89.65ms
+[2019.03.19-08.55.37:415][197]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver9B56DCAE4F29E65577BB8B8F38BCF2A0.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.55.37:427][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.55.40:893][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.55.41:138][558]LogSavePackage: Save=76.56ms
+[2019.03.19-08.55.41:138][558]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver98145CF74126CACC4C67FB9BE6597BFE.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.55.41:144][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.55.44:151][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.55.44:389][870]LogSavePackage: Save=73.02ms
+[2019.03.19-08.55.44:389][870]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiverBAA5CD34450773D950E343AE7A7CCDA5.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.55.44:402][870]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.55.46:670][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.55.46:940][ 99]LogSavePackage: Save=103.34ms
+[2019.03.19-08.55.46:940][ 99]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver404A372B4A33C382A4BA779EC54CBD61.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.55.46:946][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.55.52:885][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.55.53:129][756]LogSavePackage: Save=75.13ms
+[2019.03.19-08.55.53:129][756]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver4385FBD640738449065FCFAFB82130D2.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.55.53:140][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.56.39:689][769]BlueprintLog: New page: Compile B_NewReceiver
+[2019.03.19-08.56.39:748][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa3fb0f800, Size=480
+[2019.03.19-08.56.39:748][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aae2b8b380, Size=576
+[2019.03.19-08.56.39:748][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae2a3c600, Size=480, B_NewReceiver_C_295 Function /Engine/Transient.REINST_B_NewReceiver_C_726:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.56.39:748][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae42ea200, Size=576, B_NewReceiver_C_295 Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.56.39:762][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aae29b8600, Size=480, Default__B_NewReceiver_C Function /Game/B_NewReceiver.B_NewReceiver_C:ExecuteUbergraph_B_NewReceiver
+[2019.03.19-08.56.39:762][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aabf112200, Size=576, Default__B_NewReceiver_C Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.56.40:705][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa3fb0cc00, Size=480
+[2019.03.19-08.56.40:705][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa9642b100, Size=576
+[2019.03.19-08.56.42:632][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiver" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset" SILENT=true
+[2019.03.19-08.56.42:916][951]LogSavePackage: Save=111.30ms
+[2019.03.19-08.56.42:916][951]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiver6210244A41220BDB509B57A1FFF80A67.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset'
+[2019.03.19-08.56.42:929][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiver.uasset
+[2019.03.19-08.56.44:579][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B_NewReceiverBad" FILE="../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiverBad.uasset" SILENT=true
+[2019.03.19-08.56.44:845][ 99]LogSavePackage: Save=69.07ms
+[2019.03.19-08.56.44:845][ 99]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/B_NewReceiverBad7880A2D04CEEF24CEF770E84105ED342.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiverBad.uasset'
+[2019.03.19-08.56.44:851][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/B_NewReceiverBad.uasset
+[2019.03.19-08.56.48:711][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aae2a3c600, Size=480
+[2019.03.19-08.56.48:711][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aae42ea200, Size=576
+[2019.03.19-08.56.50:945][369]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.19-08.56.50:960][369]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.19-08.56.51:083][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aacf143e00, Size=472
+[2019.03.19-08.56.51:083][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aacf147b00, Size=576
+[2019.03.19-08.56.51:083][369]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aabd4a2200, Size=472, Default__B_NewReceiverBad_C Function /Engine/Transient.REINST_B_NewReceiverBad_C_728:ExecuteUbergraph_B_NewReceiverBad
+[2019.03.19-08.56.51:083][369]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aad0652200, Size=576, Default__B_NewReceiverBad_C Function /Game/B_MasterLightInteractor.B_MasterLightInteractor_C:ExecuteUbergraph_B_MasterLightInteractor
+[2019.03.19-08.56.53:839][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aabd4a2200, Size=472
+[2019.03.19-08.56.53:839][369]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aad0652200, Size=576
+[2019.03.19-08.56.55:095][369]SourceControl: rm 'Refraction/Content/B_NewReceiverBad.uasset'
+[2019.03.19-08.56.57:955][594]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.19-08.56.58:365][618]LogEditorViewport: Clicking on Actor (LMB): B_NewReceiver_C (B_Receiver)
+[2019.03.19-08.57.00:030][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.57.01:518][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab98b72b8, Size=4
+[2019.03.19-08.57.01:518][823]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa8c229828, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_732:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.57.01:519][823]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa8c229eb0, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.57.01:668][823]LogSavePackage: Save=153.55ms
+[2019.03.19-08.57.01:668][823]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap69ADE3DA466768ABB7EFCD909B19AAEA.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.19-08.57.01:682][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.19-08.57.02:128][823]LogSavePackage: Save=11.14ms
+[2019.03.19-08.57.02:128][823]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap_BuiltData3D5716FB404A5EF2B063C493351FE3CA.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.19-08.57.02:135][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2019.03.19-08.57.02:532][850]LogEditorViewport: Clicking on Actor (LMB): B_TowerRoom_C (B_TowerRoom)
+[2019.03.19-08.57.03:447][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.57.03:567][921]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.19-08.57.03:599][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.03:599][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.03:599][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.03:600][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.03:600][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.19-08.57.03:600][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.19-08.57.03:600][921]PIE: New page: PIE session: TopDownExampleMap (19 Mar 2019 08:57:03)
+[2019.03.19-08.57.03:600][921]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.19-08.57.03:604][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003748s)
+[2019.03.19-08.57.03:605][921]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.19-08.57.03:605][921]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.03.19-08.57.03:605][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004836s)
+[2019.03.19-08.57.03:627][921]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa8c229828, Size=4
+[2019.03.19-08.57.03:702][921]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.19-08.57.03:794][921]LogInit: FAudioDevice initialized.
+[2019.03.19-08.57.03:831][921]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.19-08.57.03:833][921]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.19-08.57.03
+[2019.03.19-08.57.03:834][921]LogWorld: Bringing up level for play took: 0.001249
+[2019.03.19-08.57.03:834][921]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.19-08.57.03:834][921]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.19-08.57.03:835][921]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.19-08.57.03:835][921]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.19-08.57.03:837][921]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.19-08.57.03:837][921]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.178
+[2019.03.19-08.57.03:837][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.03:838][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.03:838][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.03:838][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.03:838][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.19-08.57.08:008][330]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 0 0 0
+[2019.03.19-08.57.08:008][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.57.08:042][331]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.19-08.57.10:780][604]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 0 0 0
+[2019.03.19-08.57.10:781][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.57.10:816][605]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.19-08.57.11:622][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.11:622][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.11:622][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.11:623][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.11:623][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.19-08.57.11:661][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.11:661][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.11:661][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.11:661][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.11:661][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.19-08.57.12:284][726]LogEditorViewport: Clicking on Actor (LMB): B_NewReceiver_C (B_Receiver)
+[2019.03.19-08.57.13:440][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.19-08.57.15:338][915]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa8c229eb0, Size=4
+[2019.03.19-08.57.15:338][915]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa3b4d85c8, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_736:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.57.15:339][915]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa3b4d8598, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.19-08.57.15:486][915]LogSavePackage: Save=149.85ms
+[2019.03.19-08.57.15:486][915]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapA45B03414012E7CCEBCEB9BC407AC272.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.19-08.57.15:498][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.19-08.57.15:974][915]LogSavePackage: Save=42.34ms
+[2019.03.19-08.57.15:975][915]LogSavePackage: Moving '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap_BuiltDataB1D59BFF433FC425C2CD459074235A8B.tmp' to '../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.19-08.57.15:982][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Osixjoh/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2019.03.19-08.57.16:260][933]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.19-08.57.16:285][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.16:285][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.16:285][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.16:285][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.16:285][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.19-08.57.16:286][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.19-08.57.16:286][933]PIE: New page: PIE session: TopDownExampleMap (19 Mar 2019 08:57:16)
+[2019.03.19-08.57.16:286][933]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.19-08.57.16:290][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003832s)
+[2019.03.19-08.57.16:290][933]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.19-08.57.16:291][933]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.03.19-08.57.16:291][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004938s)
+[2019.03.19-08.57.16:310][933]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa3b4d85c8, Size=4
+[2019.03.19-08.57.16:386][933]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.19-08.57.16:472][933]LogInit: FAudioDevice initialized.
+[2019.03.19-08.57.16:510][933]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.19-08.57.16:512][933]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.19-08.57.16
+[2019.03.19-08.57.16:513][933]LogWorld: Bringing up level for play took: 0.001246
+[2019.03.19-08.57.16:514][933]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.19-08.57.16:514][933]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.19-08.57.16:514][933]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.19-08.57.16:514][933]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Level1 1 1 0
+[2019.03.19-08.57.16:516][933]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.19-08.57.16:516][933]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.501
+[2019.03.19-08.57.16:517][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.16:517][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.16:517][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.16:517][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.16:517][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.19-08.57.19:819][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.19:819][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.19:819][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.19:819][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.19:819][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2019.03.19-08.57.19:859][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.19-08.57.19:859][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.03.19-08.57.19:859][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Levels/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Levels/Level2.Level2:PersistentLevel.Level2'
+[2019.03.19-08.57.19:859][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2019.03.19-08.57.19:859][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
