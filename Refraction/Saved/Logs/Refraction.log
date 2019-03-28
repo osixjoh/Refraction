@@ -3872,3 +3872,995 @@ LogInit: Object subsystem initialized
 [2019.03.28-14.59.56:694][448]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level63C46C60C43FDACD0B7E3A5893ED31F58.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap'
 [2019.03.28-14.59.56:700][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap
 [2019.03.28-14.59.57:566][534]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1cd09140, Size=32
+[2019.03.28-15.01.12:253][894]LogSlate: Window 'Remove Level' being destroyed
+[2019.03.28-15.01.21:936][599]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.28-15.01.24:175][702]LogSlate: Window 'Remove Level' being destroyed
+[2019.03.28-15.01.24:281][702]MapCheck: New page: Map Check
+[2019.03.28-15.01.24:281][702]LightingResults: New page: Lighting Build
+[2019.03.28-15.01.24:298][702]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020e274ab500, Size=32
+[2019.03.28-15.01.24:298][702]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f276f1d00, Size=1680
+[2019.03.28-15.01.25:750][826]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed4a261e0, Size=32, Default__Level7_C Function /Game/Maps/Levels/Level7.Level7_C:ExecuteUbergraph_Level7
+[2019.03.28-15.01.25:751][826]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed4a261e0, Size=32
+[2019.03.28-15.01.25:751][826]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed4a261e0, Size=32, Default__Level7_C Function /Engine/Transient.REINST_Level7_C_657:ExecuteUbergraph_Level7
+[2019.03.28-15.01.25:752][826]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed4a270a0, Size=32, Default__Level7_C Function /Game/Maps/Levels/Level7.Level7_C:ExecuteUbergraph_Level7
+[2019.03.28-15.01.25:762][826]LogAIModule: Creating AISystem for world Level7
+[2019.03.28-15.01.25:799][826]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed4a261e0, Size=32
+[2019.03.28-15.01.27:175][826]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.28-15.01.29:202][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1cd093a0, Size=32
+[2019.03.28-15.01.29:202][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed53bc140, Size=32, Default__Level6_C Function /Engine/Transient.REINST_Level6_C_661:ExecuteUbergraph_Level6
+[2019.03.28-15.01.29:203][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed53bd600, Size=32, Default__Level6_C Function /Game/Maps/Levels/Level6.Level6_C:ExecuteUbergraph_Level6
+[2019.03.28-15.01.29:408][  4]LogSavePackage: Save=207.23ms
+[2019.03.28-15.01.29:408][  4]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level68C4F7DB84F4E48106EB61391C16E7B48.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap'
+[2019.03.28-15.01.29:419][  4]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap
+[2019.03.28-15.01.30:204][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed53bc140, Size=32
+[2019.03.28-15.01.31:091][ 88]LogSlate: Window 'Save Content' being destroyed
+[2019.03.28-15.01.31:464][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ee6cb6318, Size=4
+[2019.03.28-15.01.31:464][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ebf001fd8, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_665:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.01.31:465][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ebf000428, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.01.31:614][ 88]LogSavePackage: Save=152.12ms
+[2019.03.28-15.01.31:614][ 88]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapFA2FB55D40C8A2E71A2286998A640473.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.01.31:622][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.01.31:773][ 88]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.525
+[2019.03.28-15.01.32:463][150]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ebf001fd8, Size=4
+[2019.03.28-15.01.33:542][150]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.28-15.01.33:740][150]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed4a270a0, Size=32
+[2019.03.28-15.01.35:039][150]SourceControl: rm 'Refraction/Content/Maps/Levels/Level7.umap'
+[2019.03.28-15.01.37:570][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed53bd600, Size=32
+[2019.03.28-15.01.37:570][399]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed57255a0, Size=32, Default__Level6_C Function /Engine/Transient.REINST_Level6_C_669:ExecuteUbergraph_Level6
+[2019.03.28-15.01.37:571][399]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f01950bc0, Size=32, Default__Level6_C Function /Game/Maps/Levels/Level6.Level6_C:ExecuteUbergraph_Level6
+[2019.03.28-15.01.37:789][399]LogSavePackage: Save=220.53ms
+[2019.03.28-15.01.37:789][399]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level6EE597FCC4CB812869D3E20B3C6FA50C4.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap'
+[2019.03.28-15.01.37:798][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap
+[2019.03.28-15.01.54:832][162]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020e279864c0, Size=32
+[2019.03.28-15.01.54:832][162]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f00f33aa0, Size=32, Default__EmitterAndReceiver_C Function /Engine/Transient.REINST_EmitterAndReceiver_C_673:ExecuteUbergraph_Level1
+[2019.03.28-15.01.54:836][162]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f00f333a0, Size=32, Default__EmitterAndReceiver_C Function /Game/Maps/Levels/EmitterAndReceiver.EmitterAndReceiver_C:ExecuteUbergraph_EmitterAndReceiver
+[2019.03.28-15.01.55:016][162]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed57255a0, Size=32
+[2019.03.28-15.01.55:019][162]LogMetaData: Removing '/Game/Maps/Levels/EmitterAndReceiver.EmitterAndReceiver_C' ref from Metadata '/Game/Maps/Levels/Level1.PackageMetaData'
+[2019.03.28-15.01.55:019][162]LogMetaData: Removing '/Game/Maps/Levels/EmitterAndReceiver.SKEL_EmitterAndReceiver_C' ref from Metadata '/Game/Maps/Levels/Level1.PackageMetaData'
+[2019.03.28-15.01.55:198][162]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f00f333a0, Size=32
+[2019.03.28-15.01.55:198][162]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f00f333a0, Size=32, EmitterAndReceiver_C_0 Function /Engine/Transient.REINST_EmitterAndReceiver_C_677:ExecuteUbergraph_EmitterAndReceiver
+[2019.03.28-15.01.55:201][162]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f00f32da0, Size=32, Default__EmitterAndReceiver_C Function /Game/Maps/Levels/EmitterAndReceiver.EmitterAndReceiver_C:ExecuteUbergraph_EmitterAndReceiver
+[2019.03.28-15.01.55:202][162]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: EmitterAndReceiver, Actor: /Game/Maps/Levels/EmitterAndReceiver.EmitterAndReceiver:PersistentLevel.REINST_EmitterAndReceiver_C_0
+[2019.03.28-15.01.55:458][162]LogSavePackage: Save=265.37ms
+[2019.03.28-15.01.55:459][162]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/EmitterAndReceiver419407584367D542AA5741BEB4C40218.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/EmitterAndReceiver.umap'
+[2019.03.28-15.01.55:464][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/EmitterAndReceiver.umap
+[2019.03.28-15.01.55:997][162]LogFileHelpers: Saving map 'EmitterAndReceiver' took 0.958
+[2019.03.28-15.01.56:001][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level1" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap" SILENT=true
+[2019.03.28-15.01.56:032][162]LogSavePackage: Save=3.63ms
+[2019.03.28-15.01.56:032][162]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level198A904804343713B995B41B37DA16AD9.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.28-15.01.56:036][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level1.umap
+[2019.03.28-15.02.01:518][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ebf000428, Size=4
+[2019.03.28-15.02.01:519][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ef17ef790, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_681:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.01:519][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ef17ed4c8, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.01:698][518]LogSavePackage: Save=180.58ms
+[2019.03.28-15.02.01:698][518]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap34C1DC93440AD4E9D89D44BF3B23D725.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.02.01:704][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.02.01:767][518]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.453
+[2019.03.28-15.02.01:815][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f00f333a0, Size=32
+[2019.03.28-15.02.01:816][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ef17ef790, Size=4
+[2019.03.28-15.02.02:933][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f00f33aa0, Size=32
+[2019.03.28-15.02.04:027][518]SourceControl: rm 'Refraction/Content/Maps/Levels/Level1.umap'
+[2019.03.28-15.02.10:040][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f00f32da0, Size=32
+[2019.03.28-15.02.10:041][953]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed4237be0, Size=32, Default__LMBTutorial_C Function /Engine/Transient.REINST_LMBTutorial_C_685:ExecuteUbergraph_EmitterAndReceiver
+[2019.03.28-15.02.10:043][953]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed42360c0, Size=32, Default__LMBTutorial_C Function /Game/Maps/Levels/LMBTutorial.LMBTutorial_C:ExecuteUbergraph_LMBTutorial
+[2019.03.28-15.02.10:167][953]LogMetaData: Removing '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' ref from Metadata '/Game/Maps/Levels/EmitterAndReceiver.PackageMetaData'
+[2019.03.28-15.02.10:167][953]LogMetaData: Removing '/Game/Maps/Levels/LMBTutorial.SKEL_LMBTutorial_C' ref from Metadata '/Game/Maps/Levels/EmitterAndReceiver.PackageMetaData'
+[2019.03.28-15.02.10:314][953]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed42360c0, Size=32
+[2019.03.28-15.02.10:314][953]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed42360c0, Size=32, LMBTutorial_C_0 Function /Engine/Transient.REINST_LMBTutorial_C_689:ExecuteUbergraph_LMBTutorial
+[2019.03.28-15.02.10:316][953]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed4234100, Size=32, Default__LMBTutorial_C Function /Game/Maps/Levels/LMBTutorial.LMBTutorial_C:ExecuteUbergraph_LMBTutorial
+[2019.03.28-15.02.10:316][953]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: LMBTutorial, Actor: /Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.REINST_LMBTutorial_C_0
+[2019.03.28-15.02.10:489][953]LogSavePackage: Save=176.84ms
+[2019.03.28-15.02.10:489][953]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/LMBTutorialD96550E24E8589275482CF9D472D9A7B.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/LMBTutorial.umap'
+[2019.03.28-15.02.10:495][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/LMBTutorial.umap
+[2019.03.28-15.02.11:037][953]LogFileHelpers: Saving map 'LMBTutorial' took 0.852
+[2019.03.28-15.02.11:044][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/EmitterAndReceiver" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/EmitterAndReceiver.umap" SILENT=true
+[2019.03.28-15.02.11:086][953]LogSavePackage: Save=8.44ms
+[2019.03.28-15.02.11:086][953]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/EmitterAndReceiver92C6B9844A734E81D7B0CF9A0E319146.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/EmitterAndReceiver.umap'
+[2019.03.28-15.02.11:091][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/EmitterAndReceiver.umap
+[2019.03.28-15.02.16:237][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed42360c0, Size=32
+[2019.03.28-15.02.16:261][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ef17ed4c8, Size=4
+[2019.03.28-15.02.16:261][204]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efbee3120, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_693:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.16:262][204]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efbee3108, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.16:398][204]LogSavePackage: Save=138.08ms
+[2019.03.28-15.02.16:398][204]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapC554A7DD46F15AB3C24F5DA453FC1AB4.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.02.16:405][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.02.16:471][204]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.360
+[2019.03.28-15.02.16:523][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efbee3120, Size=4
+[2019.03.28-15.02.17:638][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed4237be0, Size=32
+[2019.03.28-15.02.17:938][204]SourceControl: rm 'Refraction/Content/Maps/Levels/EmitterAndReceiver.umap'
+[2019.03.28-15.02.23:583][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020e27984380, Size=32
+[2019.03.28-15.02.23:583][627]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efa85c760, Size=32, Default__RMBTutorial_C Function /Engine/Transient.REINST_RMBTutorial_C_697:ExecuteUbergraph_Level2
+[2019.03.28-15.02.23:585][627]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efa85c7a0, Size=32, Default__RMBTutorial_C Function /Game/Maps/Levels/RMBTutorial.RMBTutorial_C:ExecuteUbergraph_RMBTutorial
+[2019.03.28-15.02.23:696][627]LogMetaData: Removing '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' ref from Metadata '/Game/Maps/Levels/Level2.PackageMetaData'
+[2019.03.28-15.02.23:696][627]LogMetaData: Removing '/Game/Maps/Levels/RMBTutorial.SKEL_RMBTutorial_C' ref from Metadata '/Game/Maps/Levels/Level2.PackageMetaData'
+[2019.03.28-15.02.23:854][627]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efa85c7a0, Size=32
+[2019.03.28-15.02.23:854][627]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efa85c7a0, Size=32, RMBTutorial_C_0 Function /Engine/Transient.REINST_RMBTutorial_C_701:ExecuteUbergraph_RMBTutorial
+[2019.03.28-15.02.23:855][627]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efa85ea60, Size=32, Default__RMBTutorial_C Function /Game/Maps/Levels/RMBTutorial.RMBTutorial_C:ExecuteUbergraph_RMBTutorial
+[2019.03.28-15.02.23:856][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.REINST_RMBTutorial_C_0
+[2019.03.28-15.02.23:951][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Emitter_447.ParticleSystem
+[2019.03.28-15.02.23:952][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1083
+[2019.03.28-15.02.23:952][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.LightBeam
+[2019.03.28-15.02.23:953][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.RedBeam
+[2019.03.28-15.02.23:953][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.ParticleSystem
+[2019.03.28-15.02.23:953][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.OrangeBeam
+[2019.03.28-15.02.23:954][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.ParticleSystem1
+[2019.03.28-15.02.23:954][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.YellowBeam
+[2019.03.28-15.02.23:954][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.ParticleSystem2
+[2019.03.28-15.02.23:954][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.GreenBeam
+[2019.03.28-15.02.23:955][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.ParticleSystem3
+[2019.03.28-15.02.23:955][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.BlueBeam
+[2019.03.28-15.02.23:955][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.ParticleSystem4
+[2019.03.28-15.02.23:956][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.IndigoBeam
+[2019.03.28-15.02.23:956][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.ParticleSystem5
+[2019.03.28-15.02.23:956][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.VioletBeam
+[2019.03.28-15.02.23:957][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1084.ParticleSystem6
+[2019.03.28-15.02.23:958][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1085
+[2019.03.28-15.02.23:959][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.LightBeam
+[2019.03.28-15.02.23:959][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.RedBeam
+[2019.03.28-15.02.23:960][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.ParticleSystem
+[2019.03.28-15.02.23:960][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.OrangeBeam
+[2019.03.28-15.02.23:960][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.ParticleSystem1
+[2019.03.28-15.02.23:961][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.YellowBeam
+[2019.03.28-15.02.23:961][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.ParticleSystem2
+[2019.03.28-15.02.23:961][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.GreenBeam
+[2019.03.28-15.02.23:962][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.ParticleSystem3
+[2019.03.28-15.02.23:962][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.BlueBeam
+[2019.03.28-15.02.23:962][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.ParticleSystem4
+[2019.03.28-15.02.23:963][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.IndigoBeam
+[2019.03.28-15.02.23:963][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.ParticleSystem5
+[2019.03.28-15.02.23:963][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.VioletBeam
+[2019.03.28-15.02.23:963][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1086.ParticleSystem6
+[2019.03.28-15.02.23:965][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1087
+[2019.03.28-15.02.23:966][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.LightBeam
+[2019.03.28-15.02.23:966][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.RedBeam
+[2019.03.28-15.02.23:966][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.ParticleSystem
+[2019.03.28-15.02.23:967][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.OrangeBeam
+[2019.03.28-15.02.23:967][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.ParticleSystem1
+[2019.03.28-15.02.23:967][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.YellowBeam
+[2019.03.28-15.02.23:968][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.ParticleSystem2
+[2019.03.28-15.02.23:968][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.GreenBeam
+[2019.03.28-15.02.23:968][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.ParticleSystem3
+[2019.03.28-15.02.23:969][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.BlueBeam
+[2019.03.28-15.02.23:969][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.ParticleSystem4
+[2019.03.28-15.02.23:969][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.IndigoBeam
+[2019.03.28-15.02.23:969][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.ParticleSystem5
+[2019.03.28-15.02.23:970][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.VioletBeam
+[2019.03.28-15.02.23:970][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1088.ParticleSystem6
+[2019.03.28-15.02.23:973][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Receiver2_801.SymbolEmitter
+[2019.03.28-15.02.23:973][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Receiver_394.SymbolEmitter
+[2019.03.28-15.02.23:974][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Emitter_447.ParticleSystem
+[2019.03.28-15.02.23:975][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Emitter_447.ParticleSystem
+[2019.03.28-15.02.23:975][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Emitter_447.ParticleSystem
+[2019.03.28-15.02.23:978][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1089
+[2019.03.28-15.02.23:979][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1090
+[2019.03.28-15.02.23:981][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1091
+[2019.03.28-15.02.23:982][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.LightBeam
+[2019.03.28-15.02.23:982][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.RedBeam
+[2019.03.28-15.02.23:982][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.ParticleSystem
+[2019.03.28-15.02.23:983][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.OrangeBeam
+[2019.03.28-15.02.23:983][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.ParticleSystem1
+[2019.03.28-15.02.23:983][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.YellowBeam
+[2019.03.28-15.02.23:984][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.ParticleSystem2
+[2019.03.28-15.02.23:984][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.GreenBeam
+[2019.03.28-15.02.23:984][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.ParticleSystem3
+[2019.03.28-15.02.23:985][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.BlueBeam
+[2019.03.28-15.02.23:985][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.ParticleSystem4
+[2019.03.28-15.02.23:985][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.IndigoBeam
+[2019.03.28-15.02.23:985][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.ParticleSystem5
+[2019.03.28-15.02.23:985][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.VioletBeam
+[2019.03.28-15.02.23:986][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1092.ParticleSystem6
+[2019.03.28-15.02.23:986][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.LightBeam
+[2019.03.28-15.02.23:986][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.RedBeam
+[2019.03.28-15.02.23:986][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.ParticleSystem
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.OrangeBeam
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.ParticleSystem1
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.YellowBeam
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.ParticleSystem2
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.GreenBeam
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.ParticleSystem3
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.BlueBeam
+[2019.03.28-15.02.23:987][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.ParticleSystem4
+[2019.03.28-15.02.23:988][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.IndigoBeam
+[2019.03.28-15.02.23:988][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.ParticleSystem5
+[2019.03.28-15.02.23:988][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.VioletBeam
+[2019.03.28-15.02.23:988][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1093.ParticleSystem6
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.LightBeam
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.RedBeam
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.ParticleSystem
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.OrangeBeam
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.ParticleSystem1
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.YellowBeam
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.ParticleSystem2
+[2019.03.28-15.02.23:989][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.GreenBeam
+[2019.03.28-15.02.23:990][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.ParticleSystem3
+[2019.03.28-15.02.23:990][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.BlueBeam
+[2019.03.28-15.02.23:990][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.ParticleSystem4
+[2019.03.28-15.02.23:990][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.IndigoBeam
+[2019.03.28-15.02.23:990][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.ParticleSystem5
+[2019.03.28-15.02.23:990][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.VioletBeam
+[2019.03.28-15.02.23:990][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1094.ParticleSystem6
+[2019.03.28-15.02.23:993][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Receiver2_801.SymbolEmitter
+[2019.03.28-15.02.23:994][627]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.B_Receiver_394.SymbolEmitter
+[2019.03.28-15.02.24:108][627]LogSavePackage: Save=255.88ms
+[2019.03.28-15.02.24:108][627]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/RMBTutorialBEA8D2624E63708C6EC3FF9A1DD79003.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/RMBTutorial.umap'
+[2019.03.28-15.02.24:117][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1095
+[2019.03.28-15.02.24:118][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1096
+[2019.03.28-15.02.24:119][627]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RMBTutorial, Actor: /Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_1097
+[2019.03.28-15.02.24:119][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/RMBTutorial.umap
+[2019.03.28-15.02.24:664][627]LogFileHelpers: Saving map 'RMBTutorial' took 0.946
+[2019.03.28-15.02.24:671][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level2" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level2.umap" SILENT=true
+[2019.03.28-15.02.24:722][627]LogSavePackage: Save=7.28ms
+[2019.03.28-15.02.24:722][627]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level28AAC15A44097F866DAB8779428739C10.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level2.umap'
+[2019.03.28-15.02.24:728][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level2.umap
+[2019.03.28-15.02.28:920][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efa85c7a0, Size=32
+[2019.03.28-15.02.28:945][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efbee3108, Size=4
+[2019.03.28-15.02.28:945][796]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020eec058108, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_705:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.28:946][796]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020eec058690, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.29:180][796]LogSavePackage: Save=236.93ms
+[2019.03.28-15.02.29:180][796]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMap31BD3FC2454C30FAB4D29E8D96E50208.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.02.29:186][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.02.29:303][796]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.565
+[2019.03.28-15.02.29:344][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020eec058108, Size=4
+[2019.03.28-15.02.30:639][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efa85c760, Size=32
+[2019.03.28-15.02.31:767][796]SourceControl: rm 'Refraction/Content/Maps/Levels/Level2.umap'
+[2019.03.28-15.02.45:062][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020e27985c00, Size=32
+[2019.03.28-15.02.45:062][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020edb75ab60, Size=32, Default__DoubleReceiver_C Function /Engine/Transient.REINST_DoubleReceiver_C_709:ExecuteUbergraph_Level3
+[2019.03.28-15.02.45:066][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020edb758440, Size=32, Default__DoubleReceiver_C Function /Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C:ExecuteUbergraph_DoubleReceiver
+[2019.03.28-15.02.45:239][ 64]LogMetaData: Removing '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Levels/Level3.PackageMetaData'
+[2019.03.28-15.02.45:239][ 64]LogMetaData: Removing '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' ref from Metadata '/Game/Maps/Levels/Level3.PackageMetaData'
+[2019.03.28-15.02.45:239][ 64]LogMetaData: Removing '/Game/Maps/Levels/DoubleReceiver.SKEL_DoubleReceiver_C' ref from Metadata '/Game/Maps/Levels/Level3.PackageMetaData'
+[2019.03.28-15.02.45:395][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020edb758440, Size=32
+[2019.03.28-15.02.45:395][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020edb758440, Size=32, DoubleReceiver_C_0 Function /Engine/Transient.REINST_DoubleReceiver_C_713:ExecuteUbergraph_DoubleReceiver
+[2019.03.28-15.02.45:398][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020edb75aac0, Size=32, Default__DoubleReceiver_C Function /Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C:ExecuteUbergraph_DoubleReceiver
+[2019.03.28-15.02.45:399][ 64]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: DoubleReceiver, Actor: /Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.REINST_DoubleReceiver_C_0
+[2019.03.28-15.02.45:535][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.28-15.02.45:538][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Receiver2.SymbolEmitter
+[2019.03.28-15.02.45:538][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Receiver3.SymbolEmitter
+[2019.03.28-15.02.45:538][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.LightBeam
+[2019.03.28-15.02.45:538][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.RedBeam
+[2019.03.28-15.02.45:538][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.ParticleSystem
+[2019.03.28-15.02.45:538][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.OrangeBeam
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.ParticleSystem1
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.YellowBeam
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.ParticleSystem2
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.GreenBeam
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.ParticleSystem3
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.BlueBeam
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.ParticleSystem4
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.IndigoBeam
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.ParticleSystem5
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.VioletBeam
+[2019.03.28-15.02.45:539][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5761.ParticleSystem6
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.LightBeam
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.RedBeam
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.ParticleSystem
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.OrangeBeam
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.ParticleSystem1
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.YellowBeam
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.ParticleSystem2
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.GreenBeam
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.ParticleSystem3
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.BlueBeam
+[2019.03.28-15.02.45:540][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.ParticleSystem4
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.IndigoBeam
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.ParticleSystem5
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.VioletBeam
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5757.ParticleSystem6
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.LightBeam
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.RedBeam
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.ParticleSystem
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.OrangeBeam
+[2019.03.28-15.02.45:541][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.ParticleSystem1
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.YellowBeam
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.ParticleSystem2
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.GreenBeam
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.ParticleSystem3
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.BlueBeam
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.ParticleSystem4
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.IndigoBeam
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.ParticleSystem5
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.VioletBeam
+[2019.03.28-15.02.45:542][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5759.ParticleSystem6
+[2019.03.28-15.02.45:544][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.28-15.02.45:544][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.28-15.02.45:544][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Emitter2.ParticleSystem
+[2019.03.28-15.02.45:548][ 64]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: DoubleReceiver, Actor: /Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_5761
+[2019.03.28-15.02.45:549][ 64]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: DoubleReceiver, Actor: /Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_5765
+[2019.03.28-15.02.45:550][ 64]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: DoubleReceiver, Actor: /Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_5766
+[2019.03.28-15.02.45:551][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.LightBeam
+[2019.03.28-15.02.45:551][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.RedBeam
+[2019.03.28-15.02.45:552][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.ParticleSystem
+[2019.03.28-15.02.45:552][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.OrangeBeam
+[2019.03.28-15.02.45:552][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.ParticleSystem1
+[2019.03.28-15.02.45:553][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.YellowBeam
+[2019.03.28-15.02.45:553][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.ParticleSystem2
+[2019.03.28-15.02.45:553][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.GreenBeam
+[2019.03.28-15.02.45:554][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.ParticleSystem3
+[2019.03.28-15.02.45:554][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.BlueBeam
+[2019.03.28-15.02.45:554][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.ParticleSystem4
+[2019.03.28-15.02.45:555][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.IndigoBeam
+[2019.03.28-15.02.45:555][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.ParticleSystem5
+[2019.03.28-15.02.45:555][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.VioletBeam
+[2019.03.28-15.02.45:555][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5767.ParticleSystem6
+[2019.03.28-15.02.45:557][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.LightBeam
+[2019.03.28-15.02.45:557][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.RedBeam
+[2019.03.28-15.02.45:558][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.ParticleSystem
+[2019.03.28-15.02.45:558][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.OrangeBeam
+[2019.03.28-15.02.45:558][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.ParticleSystem1
+[2019.03.28-15.02.45:559][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.YellowBeam
+[2019.03.28-15.02.45:559][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.ParticleSystem2
+[2019.03.28-15.02.45:560][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.GreenBeam
+[2019.03.28-15.02.45:560][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.ParticleSystem3
+[2019.03.28-15.02.45:560][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.BlueBeam
+[2019.03.28-15.02.45:560][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.ParticleSystem4
+[2019.03.28-15.02.45:561][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.IndigoBeam
+[2019.03.28-15.02.45:561][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.ParticleSystem5
+[2019.03.28-15.02.45:561][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.VioletBeam
+[2019.03.28-15.02.45:562][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.Beam_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5768.ParticleSystem6
+[2019.03.28-15.02.45:563][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.LightBeam
+[2019.03.28-15.02.45:564][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.RedBeam
+[2019.03.28-15.02.45:564][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.ParticleSystem
+[2019.03.28-15.02.45:564][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.OrangeBeam
+[2019.03.28-15.02.45:565][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.ParticleSystem1
+[2019.03.28-15.02.45:565][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.YellowBeam
+[2019.03.28-15.02.45:565][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.ParticleSystem2
+[2019.03.28-15.02.45:566][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.GreenBeam
+[2019.03.28-15.02.45:566][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.ParticleSystem3
+[2019.03.28-15.02.45:566][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.BlueBeam
+[2019.03.28-15.02.45:566][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.ParticleSystem4
+[2019.03.28-15.02.45:567][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.IndigoBeam
+[2019.03.28-15.02.45:567][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.ParticleSystem5
+[2019.03.28-15.02.45:567][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Beam.P_Beam Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.VioletBeam
+[2019.03.28-15.02.45:567][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/P_BeamSparks.P_BeamSparks Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_5769.ParticleSystem6
+[2019.03.28-15.02.45:570][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Receiver2.SymbolEmitter
+[2019.03.28-15.02.45:572][ 64]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/LightBeams/P_Symbols.P_Symbols Component=/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.B_Receiver3.SymbolEmitter
+[2019.03.28-15.02.45:693][ 64]LogSavePackage: Save=299.37ms
+[2019.03.28-15.02.45:693][ 64]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/DoubleReceiver427310BD41888D8FCFA060B20E253E0F.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/DoubleReceiver.umap'
+[2019.03.28-15.02.45:700][ 64]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: DoubleReceiver, Actor: /Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_5770
+[2019.03.28-15.02.45:701][ 64]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: DoubleReceiver, Actor: /Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_5771
+[2019.03.28-15.02.45:702][ 64]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: DoubleReceiver, Actor: /Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DESTROYED_B_BeamSpectrum_C_CHILDACTOR_5772
+[2019.03.28-15.02.45:703][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/DoubleReceiver.umap
+[2019.03.28-15.02.46:289][ 64]LogFileHelpers: Saving map 'DoubleReceiver' took 1.030
+[2019.03.28-15.02.46:294][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level3" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level3.umap" SILENT=true
+[2019.03.28-15.02.46:339][ 64]LogSavePackage: Save=7.72ms
+[2019.03.28-15.02.46:339][ 64]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level353643AFA40B08742674C619478128AD7.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level3.umap'
+[2019.03.28-15.02.46:344][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level3.umap
+[2019.03.28-15.02.51:694][336]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020eec058690, Size=4
+[2019.03.28-15.02.51:694][336]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f1cfc6d40, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_717:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.51:695][336]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f1cfc7680, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.02.51:972][336]LogSavePackage: Save=280.36ms
+[2019.03.28-15.02.51:972][336]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapF044DF324F578542576E8EA41ED0FE8E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.02.51:981][336]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.02.52:069][336]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.531
+[2019.03.28-15.02.52:114][336]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020edb758440, Size=32
+[2019.03.28-15.02.52:114][336]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1cfc6d40, Size=4
+[2019.03.28-15.02.53:301][336]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020edb75ab60, Size=32
+[2019.03.28-15.02.54:600][336]SourceControl: rm 'Refraction/Content/Maps/Levels/Level3.umap'
+[2019.03.28-15.03.06:239][464]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020e279853e0, Size=32
+[2019.03.28-15.03.06:239][464]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020eebf35280, Size=32, Default__FilterTutorial_C Function /Engine/Transient.REINST_FilterTutorial_C_721:ExecuteUbergraph_Level4
+[2019.03.28-15.03.06:241][464]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed0bfd8e0, Size=32, Default__FilterTutorial_C Function /Game/Maps/Levels/FilterTutorial.FilterTutorial_C:ExecuteUbergraph_FilterTutorial
+[2019.03.28-15.03.06:364][464]LogMetaData: Removing '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Levels/Level4.PackageMetaData'
+[2019.03.28-15.03.06:364][464]LogMetaData: Removing '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' ref from Metadata '/Game/Maps/Levels/Level4.PackageMetaData'
+[2019.03.28-15.03.06:364][464]LogMetaData: Removing '/Game/Maps/Levels/FilterTutorial.SKEL_FilterTutorial_C' ref from Metadata '/Game/Maps/Levels/Level4.PackageMetaData'
+[2019.03.28-15.03.06:527][464]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed0bfd8e0, Size=32
+[2019.03.28-15.03.06:528][464]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed0bfd8e0, Size=32, FilterTutorial_C_0 Function /Engine/Transient.REINST_FilterTutorial_C_725:ExecuteUbergraph_FilterTutorial
+[2019.03.28-15.03.06:529][464]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed0bfd840, Size=32, Default__FilterTutorial_C Function /Game/Maps/Levels/FilterTutorial.FilterTutorial_C:ExecuteUbergraph_FilterTutorial
+[2019.03.28-15.03.06:530][464]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: FilterTutorial, Actor: /Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.REINST_FilterTutorial_C_0
+[2019.03.28-15.03.06:747][464]LogSavePackage: Save=221.44ms
+[2019.03.28-15.03.06:747][464]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/FilterTutorialBAAE740545E0222D412A2995EBFF92F4.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/FilterTutorial.umap'
+[2019.03.28-15.03.06:754][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/FilterTutorial.umap
+[2019.03.28-15.03.07:268][464]LogFileHelpers: Saving map 'FilterTutorial' took 0.884
+[2019.03.28-15.03.07:274][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level4.umap" SILENT=true
+[2019.03.28-15.03.07:315][464]LogSavePackage: Save=8.39ms
+[2019.03.28-15.03.07:315][464]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level4CA9E1E1D4E37A2F533FD81A88A8D8E3E.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level4.umap'
+[2019.03.28-15.03.07:320][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level4.umap
+[2019.03.28-15.03.16:796][210]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f01339ca0, Size=32
+[2019.03.28-15.03.16:796][210]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed2b3ce80, Size=32, Default__MirrorTutorial_C Function /Engine/Transient.REINST_MirrorTutorial_C_729:ExecuteUbergraph_Level5
+[2019.03.28-15.03.16:798][210]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed2b3e7a0, Size=32, Default__MirrorTutorial_C Function /Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C:ExecuteUbergraph_MirrorTutorial
+[2019.03.28-15.03.16:947][210]LogMetaData: Removing '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Levels/Level5.PackageMetaData'
+[2019.03.28-15.03.16:947][210]LogMetaData: Removing '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' ref from Metadata '/Game/Maps/Levels/Level5.PackageMetaData'
+[2019.03.28-15.03.16:947][210]LogMetaData: Removing '/Game/Maps/Levels/MirrorTutorial.SKEL_MirrorTutorial_C' ref from Metadata '/Game/Maps/Levels/Level5.PackageMetaData'
+[2019.03.28-15.03.17:108][210]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed2b3e7a0, Size=32
+[2019.03.28-15.03.17:108][210]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed2b3e7a0, Size=32, MirrorTutorial_C_0 Function /Engine/Transient.REINST_MirrorTutorial_C_733:ExecuteUbergraph_MirrorTutorial
+[2019.03.28-15.03.17:111][210]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed2b3c8e0, Size=32, Default__MirrorTutorial_C Function /Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C:ExecuteUbergraph_MirrorTutorial
+[2019.03.28-15.03.17:112][210]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: MirrorTutorial, Actor: /Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.REINST_MirrorTutorial_C_0
+[2019.03.28-15.03.17:446][210]LogSavePackage: Save=339.69ms
+[2019.03.28-15.03.17:446][210]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MirrorTutorial418513EF4CF80F8333845284358DFFDF.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MirrorTutorial.umap'
+[2019.03.28-15.03.17:454][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MirrorTutorial.umap
+[2019.03.28-15.03.18:047][210]LogFileHelpers: Saving map 'MirrorTutorial' took 1.079
+[2019.03.28-15.03.18:053][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level5" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level5.umap" SILENT=true
+[2019.03.28-15.03.18:097][210]LogSavePackage: Save=8.38ms
+[2019.03.28-15.03.18:097][210]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level543F1EDC54C901AB6097D638E39A393FF.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level5.umap'
+[2019.03.28-15.03.18:104][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level5.umap
+[2019.03.28-15.03.25:833][820]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f01950bc0, Size=32
+[2019.03.28-15.03.25:833][820]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ef6aad520, Size=32, Default__MoveTrackTutorial_C Function /Engine/Transient.REINST_MoveTrackTutorial_C_737:ExecuteUbergraph_Level6
+[2019.03.28-15.03.25:837][820]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ef6aae340, Size=32, Default__MoveTrackTutorial_C Function /Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.03.25:984][820]LogMetaData: Removing '/Game/Maps/Levels/MoveTrackTutorial.SKEL_MoveTrackTutorial_C' ref from Metadata '/Game/Maps/Levels/Level6.PackageMetaData'
+[2019.03.28-15.03.25:984][820]LogMetaData: Removing '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' ref from Metadata '/Game/Maps/Levels/Level6.PackageMetaData'
+[2019.03.28-15.03.26:144][820]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ef6aae340, Size=32
+[2019.03.28-15.03.26:145][820]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ef6aae340, Size=32, MoveTrackTutorial_C_0 Function /Engine/Transient.REINST_MoveTrackTutorial_C_741:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.03.26:146][820]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ef6aae360, Size=32, Default__MoveTrackTutorial_C Function /Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.03.26:359][820]LogSavePackage: Save=215.71ms
+[2019.03.28-15.03.26:359][820]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MoveTrackTutorialA89A2B8E41CE0064D7B2D8BC494122FC.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap'
+[2019.03.28-15.03.26:365][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap
+[2019.03.28-15.03.26:917][820]LogFileHelpers: Saving map 'MoveTrackTutorial' took 0.910
+[2019.03.28-15.03.26:923][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level6" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap" SILENT=true
+[2019.03.28-15.03.26:961][820]LogSavePackage: Save=7.78ms
+[2019.03.28-15.03.26:961][820]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level66365782F4327E4F8351049A546907D7D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap'
+[2019.03.28-15.03.26:966][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level6.umap
+[2019.03.28-15.03.32:980][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ef6aae340, Size=32
+[2019.03.28-15.03.33:029][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1cfc7680, Size=4
+[2019.03.28-15.03.33:029][172]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f1b66a880, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_745:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.03.33:031][172]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f1b669900, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.03.33:207][172]LogSavePackage: Save=180.56ms
+[2019.03.28-15.03.33:207][172]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapE918A81D48621B7220B8D7832CF8215A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.03.33:214][172]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.03.33:285][172]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.518
+[2019.03.28-15.03.33:327][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed2b3e7a0, Size=32
+[2019.03.28-15.03.33:327][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed0bfd8e0, Size=32
+[2019.03.28-15.03.33:327][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1b66a880, Size=4
+[2019.03.28-15.03.36:329][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020eebf35280, Size=32
+[2019.03.28-15.03.36:329][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed2b3ce80, Size=32
+[2019.03.28-15.03.36:329][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ef6aad520, Size=32
+[2019.03.28-15.03.37:278][172]SourceControl: rm 'Refraction/Content/Maps/Levels/Level4.umap'
+[2019.03.28-15.03.37:278][172]SourceControl: rm 'Refraction/Content/Maps/Levels/Level5.umap'
+[2019.03.28-15.03.37:278][172]SourceControl: rm 'Refraction/Content/Maps/Levels/Level6.umap'
+[2019.03.28-15.03.47:214][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2d0b4d60, Size=32
+[2019.03.28-15.03.47:214][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2e7954e0, Size=32, Default__Puzzle1_C Function /Engine/Transient.REINST_Puzzle1_C_749:ExecuteUbergraph_Level8
+[2019.03.28-15.03.47:216][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2e794b40, Size=32, Default__Puzzle1_C Function /Game/Maps/Levels/Puzzle1.Puzzle1_C:ExecuteUbergraph_Puzzle1
+[2019.03.28-15.03.47:366][ 54]LogMetaData: Removing '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Levels/Level8.PackageMetaData'
+[2019.03.28-15.03.47:366][ 54]LogMetaData: Removing '/Game/Maps/Levels/Puzzle1.Puzzle1_C' ref from Metadata '/Game/Maps/Levels/Level8.PackageMetaData'
+[2019.03.28-15.03.47:366][ 54]LogMetaData: Removing '/Game/Maps/Levels/Puzzle1.SKEL_Puzzle1_C' ref from Metadata '/Game/Maps/Levels/Level8.PackageMetaData'
+[2019.03.28-15.03.47:524][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2e794b40, Size=32
+[2019.03.28-15.03.47:524][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2e794b40, Size=32, Puzzle1_C_0 Function /Engine/Transient.REINST_Puzzle1_C_753:ExecuteUbergraph_Puzzle1
+[2019.03.28-15.03.47:526][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f07ad9f60, Size=32, Default__Puzzle1_C Function /Game/Maps/Levels/Puzzle1.Puzzle1_C:ExecuteUbergraph_Puzzle1
+[2019.03.28-15.03.47:526][ 54]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Puzzle1, Actor: /Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.REINST_Puzzle1_C_0
+[2019.03.28-15.03.47:791][ 54]LogSavePackage: Save=270.01ms
+[2019.03.28-15.03.47:791][ 54]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Puzzle14E23E3514F3A3CB6BEF421B28D52F959.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle1.umap'
+[2019.03.28-15.03.47:799][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle1.umap
+[2019.03.28-15.03.48:317][ 54]LogFileHelpers: Saving map 'Puzzle1' took 0.927
+[2019.03.28-15.03.48:322][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level8" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level8.umap" SILENT=true
+[2019.03.28-15.03.48:353][ 54]LogSavePackage: Save=4.22ms
+[2019.03.28-15.03.48:353][ 54]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Level87CF34ABF480A54FE670B33A2EC5C8B9C.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level8.umap'
+[2019.03.28-15.03.48:359][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Level8.umap
+[2019.03.28-15.03.53:146][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1b669900, Size=4
+[2019.03.28-15.03.53:146][291]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f1b669900, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_757:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.03.53:147][291]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f1b669338, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.03.53:298][291]LogSavePackage: Save=154.86ms
+[2019.03.28-15.03.53:298][291]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapB23892DF48261DCCF498C08260F8D532.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.03.53:306][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.03.53:406][291]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.453
+[2019.03.28-15.03.53:460][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2e794b40, Size=32
+[2019.03.28-15.03.53:460][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1b669900, Size=4
+[2019.03.28-15.03.54:571][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2e7954e0, Size=32
+[2019.03.28-15.03.55:805][291]SourceControl: rm 'Refraction/Content/Maps/Levels/Level8.umap'
+[2019.03.28-15.03.59:151][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ef6aae360, Size=32
+[2019.03.28-15.03.59:151][637]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2e35c3a0, Size=32, Default__MoveTrackTutorial_C Function /Engine/Transient.REINST_MoveTrackTutorial_C_761:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.03.59:153][637]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2e7e4340, Size=32, Default__MoveTrackTutorial_C Function /Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.03.59:319][637]LogSavePackage: Save=169.93ms
+[2019.03.28-15.03.59:320][637]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MoveTrackTutorialBCB8748C4624AC5B82462898FCAC17DF.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap'
+[2019.03.28-15.03.59:326][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap
+[2019.03.28-15.03.59:786][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2e35c3a0, Size=32
+[2019.03.28-15.05.17:293][229]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.05.17:364][229]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f283f8100, Size=1584
+[2019.03.28-15.05.17:364][229]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ee6fa2400, Size=1584, Default__PC_Refraction_C Function /Engine/Transient.REINST_PC_Refraction_C_802:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.05.17:373][229]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020eca2e0800, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.05.27:260][699]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.05.27:375][699]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020eca2e0800, Size=1584
+[2019.03.28-15.05.27:375][699]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f17f7c100, Size=1584, PC_Refraction_C_6 Function /Engine/Transient.REINST_PC_Refraction_C_843:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.05.27:390][699]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ebebef200, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.05.28:119][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.05.28:238][700]LogSavePackage: Save=85.67ms
+[2019.03.28-15.05.28:238][700]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_RefractionD25D1F6F4AFEF432F5C66B85D74F91AC.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.05.28:246][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.05.29:010][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.05.29:131][731]LogSavePackage: Save=105.64ms
+[2019.03.28-15.05.29:131][731]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction30F784B348484BCAFB74B4AFDC0636AA.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.05.29:135][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.05.40:738][386]BlueprintLog: New page: Compile TopDownExampleMap
+[2019.03.28-15.05.40:740][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f1b669338, Size=4
+[2019.03.28-15.05.40:740][386]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f055b5f70, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_847:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.05.40:741][386]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f055b7b28, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.05.41:402][406]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f055b5f70, Size=4
+[2019.03.28-15.05.41:420][406]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f055b7b28, Size=4
+[2019.03.28-15.05.41:420][406]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f055b7b28, Size=4, Default__TopDownExampleMap_C Function /Engine/Transient.REINST_TopDownExampleMap_C_851:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.05.41:421][406]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f055b6430, Size=4, Default__TopDownExampleMap_C Function /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C:ExecuteUbergraph_TopDownExampleMap
+[2019.03.28-15.05.41:596][406]LogSavePackage: Save=177.95ms
+[2019.03.28-15.05.41:597][406]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/TopDownExampleMapAB2C2B484EEA0BE065492B8A42D0697A.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.03.28-15.05.41:604][406]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2019.03.28-15.05.41:692][406]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.416
+[2019.03.28-15.06.08:634][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ee6fa2400, Size=1584
+[2019.03.28-15.06.08:634][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f055b7b28, Size=4
+[2019.03.28-15.06.08:636][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f17f7c100, Size=1584
+[2019.03.28-15.06.08:655][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2e7e4340, Size=32
+[2019.03.28-15.06.08:655][881]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020e7f3fc640, Size=32, Default__MoveTrackTutorial_C Function /Engine/Transient.REINST_MoveTrackTutorial_C_855:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.06.08:656][881]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020e7f3fc720, Size=32, Default__MoveTrackTutorial_C Function /Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.06.08:978][881]LogSavePackage: Save=325.02ms
+[2019.03.28-15.06.08:978][881]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MoveTrackTutorial14ADFCD943A776E7C2D39989AD0E6C8D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap'
+[2019.03.28-15.06.08:989][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap
+[2019.03.28-15.06.09:275][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.09:304][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.06.09:304][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-15.06.09:304][896]PIE: New page: PIE session: TopDownExampleMap (28 Mar 2019 15:06:09)
+[2019.03.28-15.06.09:304][896]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.28-15.06.09:308][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003842s)
+[2019.03.28-15.06.09:309][896]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.28-15.06.09:309][896]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2019.03.28-15.06.09:309][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004638s)
+[2019.03.28-15.06.09:325][896]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020e7f3fc640, Size=32
+[2019.03.28-15.06.09:328][896]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.28-15.06.09:349][896]LogInit: FAudioDevice initialized.
+[2019.03.28-15.06.09:385][896]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.28-15.06.09:391][896]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.28-15.06.09
+[2019.03.28-15.06.09:392][896]LogWorld: Bringing up level for play took: 0.006724
+[2019.03.28-15.06.09:394][896]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-15.06.09:394][896]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-15.06.09:394][896]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-15.06.09:395][896]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_LMBTutorial 1 1 0
+[2019.03.28-15.06.09:399][896]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-15.06.09:399][896]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.138
+[2019.03.28-15.06.09:399][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.09:399][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.09:399][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.09:399][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.09:400][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.09:400][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.09:400][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.09:400][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.06.15:440][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.15:564][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.06.15:601][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.15:601][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.15:602][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.15:602][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.15:602][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.15:602][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.15:602][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.15:602][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.06.23:941][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.06.24:067][638]LogSavePackage: Save=110.32ms
+[2019.03.28-15.06.24:067][638]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_RefractionD1BEA577428130F05F174CA9D50E9256.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.06.24:072][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.06.45:069][623]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.45:099][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.06.45:099][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-15.06.45:099][623]PIE: New page: PIE session: TopDownExampleMap (28 Mar 2019 15:06:45)
+[2019.03.28-15.06.45:100][623]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.28-15.06.45:103][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003891s)
+[2019.03.28-15.06.45:104][623]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.28-15.06.45:104][623]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2019.03.28-15.06.45:104][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.004616s)
+[2019.03.28-15.06.45:122][623]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.28-15.06.45:142][623]LogInit: FAudioDevice initialized.
+[2019.03.28-15.06.45:177][623]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.28-15.06.45:180][623]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.28-15.06.45
+[2019.03.28-15.06.45:181][623]LogWorld: Bringing up level for play took: 0.003255
+[2019.03.28-15.06.45:182][623]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-15.06.45:182][623]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-15.06.45:182][623]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-15.06.45:183][623]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_LMBTutorial 1 1 0
+[2019.03.28-15.06.45:187][623]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-15.06.45:187][623]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.073
+[2019.03.28-15.06.45:187][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.45:187][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.45:188][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.45:188][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.45:188][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.45:188][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.45:188][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.45:188][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.06.50:027][869]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_RMBTutorial 0 0 0
+[2019.03.28-15.06.50:028][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.06.50:029][869]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_DoubleReceiver 1 1 0
+[2019.03.28-15.06.50:080][869]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	B_BeamSpectrum_C /Game/Maps/Levels/UEDPIE_0_LMBTutorial.LMBTutorial:PersistentLevel.ChildActor_GEN_VARIABLE_B_BeamSpectrum_C_CAT_1632
+	Function /Game/LightBeams/B_BeamSpectrum.B_BeamSpectrum_C:ExecuteUbergraph_B_BeamSpectrum:0000
+[2019.03.28-15.06.50:081][869]PIE: Error: Infinite Loop detected in  B_BeamSpectrum , asserted during  Set Vector Parameter with the following  Call Stack
+[2019.03.28-15.06.50:081][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.50:081][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.50:081][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.50:082][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.50:082][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.50:082][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.50:082][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.50:082][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.06.50:117][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.06.50:117][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.06.50:117][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.06.50:117][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.06.50:117][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.06.50:118][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.06.50:118][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.06.50:118][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.07.11:704][ 32]LogSlate: Window 'Message Log' being destroyed
+[2019.03.28-15.07.24:256][842]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.07.24:327][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ebebef200, Size=1584
+[2019.03.28-15.07.24:327][842]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2e011d00, Size=1584, Default__PC_Refraction_C Function /Engine/Transient.REINST_PC_Refraction_C_896:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.07.24:344][842]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2f97e400, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.07.25:429][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.07.25:511][872]LogSavePackage: Save=67.72ms
+[2019.03.28-15.07.25:511][872]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction56A455E84DC1D8A8A26C69839D8E8D7C.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.07.25:516][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.07.27:133][986]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.07.27:165][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.07.27:165][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-15.07.27:166][986]PIE: New page: PIE session: TopDownExampleMap (28 Mar 2019 15:07:27)
+[2019.03.28-15.07.27:166][986]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.28-15.07.27:170][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004224s)
+[2019.03.28-15.07.27:170][986]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.28-15.07.27:171][986]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2019.03.28-15.07.27:171][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.005010s)
+[2019.03.28-15.07.27:200][986]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.28-15.07.27:222][986]LogInit: FAudioDevice initialized.
+[2019.03.28-15.07.27:261][986]LogLoad: Game class is 'GM_Refraction_C'
+[2019.03.28-15.07.27:265][986]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.28-15.07.27
+[2019.03.28-15.07.27:265][986]LogWorld: Bringing up level for play took: 0.003291
+[2019.03.28-15.07.27:267][986]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-15.07.27:267][986]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.28-15.07.27:267][986]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-15.07.27:267][986]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_LMBTutorial 1 1 0
+[2019.03.28-15.07.27:271][986]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.28-15.07.27:271][986]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.013
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.07.27:272][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.07.30:866][185]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.28-15.07.30:875][185]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.28-15.07.30:876][185]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.28-15.07.30:878][185]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.28-15.07.30:885][185]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.28-15.07.30:887][185]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.28-15.07.31:294][206]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_LMBTutorial 0 0 0
+[2019.03.28-15.07.31:294][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.07.31:339][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2e011d00, Size=1584
+[2019.03.28-15.07.31:341][207]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_RMBTutorial 1 1 0
+[2019.03.28-15.07.33:963][341]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_RMBTutorial 0 0 0
+[2019.03.28-15.07.33:963][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.07.34:014][342]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_RMBTutorial 1 1 0
+[2019.03.28-15.07.39:928][672]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_RMBTutorial 0 0 0
+[2019.03.28-15.07.39:928][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.07.39:982][673]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_DoubleReceiver 1 1 0
+[2019.03.28-15.07.44:849][919]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_DoubleReceiver 0 0 0
+[2019.03.28-15.07.44:849][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.07.44:913][920]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_FilterTutorial 1 1 0
+[2019.03.28-15.07.49:493][152]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_FilterTutorial 0 0 0
+[2019.03.28-15.07.49:493][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.07.49:555][153]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_MirrorTutorial 1 1 0
+[2019.03.28-15.07.54:518][417]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_MirrorTutorial 0 0 0
+[2019.03.28-15.07.54:518][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.07.54:566][418]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_MoveTrackTutorial 1 1 0
+[2019.03.28-15.08.05:816][ 41]LogSlate: Took 0.000527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.28-15.08.05:836][ 41]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.28-15.08.05:836][ 41]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.28-15.08.05:839][ 41]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.28-15.08.05:849][ 41]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.28-15.08.05:851][ 41]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.28-15.08.07:018][101]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_MoveTrackTutorial 0 0 0
+[2019.03.28-15.08.07:019][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.08.07:070][102]LogLevel: ActivateLevel /Game/Maps/Levels/UEDPIE_0_Puzzle1 1 1 0
+[2019.03.28-15.08.14:441][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.08.14:442][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.08.14:442][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.08.14:442][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.08.14:442][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.08.14:442][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.08.14:442][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.08.14:442][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.08.14:480][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.28-15.08.14:481][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial' with GeneratedClass '/Game/Maps/Levels/LMBTutorial.LMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/LMBTutorial.LMBTutorial:PersistentLevel.LMBTutorial'
+[2019.03.28-15.08.14:481][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver' with GeneratedClass '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver_C' with ClassGeneratedBy '/Game/Maps/Levels/DoubleReceiver.DoubleReceiver:PersistentLevel.DoubleReceiver'
+[2019.03.28-15.08.14:481][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial' with GeneratedClass '/Game/Maps/Levels/FilterTutorial.FilterTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/FilterTutorial.FilterTutorial:PersistentLevel.FilterTutorial'
+[2019.03.28-15.08.14:481][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial' with GeneratedClass '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MirrorTutorial.MirrorTutorial:PersistentLevel.MirrorTutorial'
+[2019.03.28-15.08.14:481][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial' with GeneratedClass '/Game/Maps/Levels/RMBTutorial.RMBTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/RMBTutorial.RMBTutorial:PersistentLevel.RMBTutorial'
+[2019.03.28-15.08.14:481][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1' with GeneratedClass '/Game/Maps/Levels/Puzzle1.Puzzle1_C' with ClassGeneratedBy '/Game/Maps/Levels/Puzzle1.Puzzle1:PersistentLevel.Puzzle1'
+[2019.03.28-15.08.14:481][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial' with GeneratedClass '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C' with ClassGeneratedBy '/Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial:PersistentLevel.MoveTrackTutorial'
+[2019.03.28-15.08.15:140][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.08.15:410][581]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.28-15.08.15:449][581]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020e7f3fc720, Size=32
+[2019.03.28-15.08.15:449][581]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed4c012e0, Size=32, Default__MoveTrackTutorial_C Function /Engine/Transient.REINST_MoveTrackTutorial_C_900:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.08.15:450][581]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed4c039e0, Size=32, Default__MoveTrackTutorial_C Function /Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.08.15:768][581]LogSavePackage: Save=320.33ms
+[2019.03.28-15.08.15:768][581]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MoveTrackTutorialFC29B78040BEF24E8038009A9C5D7227.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap'
+[2019.03.28-15.08.15:779][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap
+[2019.03.28-15.08.22:448][986]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.08.22:520][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2f97e400, Size=1584
+[2019.03.28-15.08.22:520][986]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2e27f900, Size=1584, Default__PC_Refraction_C Function /Engine/Transient.REINST_PC_Refraction_C_941:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.08.22:528][986]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed7105600, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.08.22:817][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed4c012e0, Size=32
+[2019.03.28-15.08.23:050][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.08.23:140][986]LogSavePackage: Save=75.01ms
+[2019.03.28-15.08.23:140][986]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_RefractionEB025F484A54A4C6A0B40B8B8773351F.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.08.23:146][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.08.24:108][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.08.24:186][ 26]LogSavePackage: Save=64.45ms
+[2019.03.28-15.08.24:186][ 26]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction2B75B5E14829D4C6F470989FAE691777.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.08.24:188][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.08.25:896][187]LogSlate: Window 'PC_Refraction' being destroyed
+[2019.03.28-15.13.58:871][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.13.59:053][951]LogSavePackage: Save=132.53ms
+[2019.03.28-15.13.59:053][951]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_RefractionB23233D0488974A2940A2CAAD54D4B87.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.13.59:062][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.14.00:283][ 66]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.14.00:344][ 66]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed7105600, Size=1584
+[2019.03.28-15.14.00:344][ 66]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ebf2c6b00, Size=1584, PC_Refraction_C_7 Function /Engine/Transient.REINST_PC_Refraction_C_982:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.14.00:352][ 66]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2791eb00, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.14.01:528][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.14.01:611][118]LogSavePackage: Save=68.27ms
+[2019.03.28-15.14.01:611][118]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction5F80CE734E9D6C602ACB9D8FFD35E5EA.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.14.01:613][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.14.16:514][624]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.14.16:573][624]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2791eb00, Size=1584
+[2019.03.28-15.14.16:574][624]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2ebeeb00, Size=1584, PC_Refraction_C_8 Function /Engine/Transient.REINST_PC_Refraction_C_1023:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.14.16:582][624]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f17b36b00, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.14.17:286][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.14.17:369][635]LogSavePackage: Save=68.05ms
+[2019.03.28-15.14.17:369][635]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction4E9DAB924857AD6263BD0994261675F0.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.14.17:376][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.14.19:776][877]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.14.19:843][877]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f17b36b00, Size=1584
+[2019.03.28-15.14.19:843][877]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2f752b00, Size=1584, PC_Refraction_C_9 Function /Engine/Transient.REINST_PC_Refraction_C_1064:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.14.19:851][877]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f267ef200, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.14.20:561][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.14.20:647][893]LogSavePackage: Save=71.83ms
+[2019.03.28-15.14.20:647][893]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction222ACDA14971917921AA38A1AAEED219.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.14.20:655][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.14.22:265][ 22]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed4c039e0, Size=32
+[2019.03.28-15.14.22:265][ 22]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f01e3c300, Size=32, Default__MoveTrackTutorial_C Function /Engine/Transient.REINST_MoveTrackTutorial_C_1068:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.14.22:267][ 22]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f01e3df60, Size=32, Default__MoveTrackTutorial_C Function /Game/Maps/Levels/MoveTrackTutorial.MoveTrackTutorial_C:ExecuteUbergraph_MoveTrackTutorial
+[2019.03.28-15.14.22:534][ 22]LogSavePackage: Save=270.60ms
+[2019.03.28-15.14.22:534][ 22]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MoveTrackTutorialAEE0F8EF444A1702F88A2C96C5D08ACB.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap'
+[2019.03.28-15.14.22:543][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/MoveTrackTutorial.umap
+[2019.03.28-15.14.25:695][377]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f01e3c300, Size=32
+[2019.03.28-15.14.37:591][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efbebb2b8, Size=4, Default__SKEL_Puzzle2_C Function /Game/Maps/Levels/Puzzle2.SKEL_Puzzle2_C:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.37:591][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efbebb2b8, Size=4
+[2019.03.28-15.14.37:591][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efbebb2b8, Size=4, Default__SKEL_Puzzle2_C Function /Engine/Transient.REINST_SKEL_Puzzle2_C_1071:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.37:592][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efbebb188, Size=4, Default__SKEL_Puzzle2_C Function /Game/Maps/Levels/Puzzle2.SKEL_Puzzle2_C:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.37:595][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020eec01d3e0, Size=32, Default__Puzzle2_C Function /Game/Maps/Levels/Puzzle2.Puzzle2_C:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.37:597][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efbebb188, Size=4
+[2019.03.28-15.14.37:597][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020efbebb188, Size=4, Default__SKEL_Puzzle2_C Function /Engine/Transient.REINST_SKEL_Puzzle2_C_1074:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.37:597][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020eec01d3e0, Size=32
+[2019.03.28-15.14.37:597][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020eec01d3e0, Size=32, Default__Puzzle2_C Function /Engine/Transient.REINST_Puzzle2_C_1076:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.37:599][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020edb9ec780, Size=32, Default__Puzzle2_C Function /Game/Maps/Levels/Puzzle2.Puzzle2_C:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.37:605][687]LogAIModule: Creating AISystem for world Puzzle2
+[2019.03.28-15.14.38:317][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020eec01d3e0, Size=32
+[2019.03.28-15.14.38:317][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efbebb188, Size=4
+[2019.03.28-15.14.38:317][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020efbebb2b8, Size=4
+[2019.03.28-15.14.38:320][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020edb9ec780, Size=32
+[2019.03.28-15.14.38:320][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed2ebc120, Size=32, Default__Puzzle2_C Function /Engine/Transient.REINST_Puzzle2_C_1080:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.38:321][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020ed2ebc7a0, Size=32, Default__Puzzle2_C Function /Game/Maps/Levels/Puzzle2.Puzzle2_C:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.38:582][687]LogSavePackage: Save=263.63ms
+[2019.03.28-15.14.38:582][687]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Puzzle2A1282B9D43082FB97CF63794BDACE6B6.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle2.umap'
+[2019.03.28-15.14.38:587][687]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle2.umap
+[2019.03.28-15.14.39:245][687]LogFileHelpers: Saving map 'Puzzle2' took 1.248
+[2019.03.28-15.14.43:385][ 55]LogSlate: Window 'Open Level' being destroyed
+[2019.03.28-15.14.48:502][631]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.03.28-15.14.54:433][160]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed2ebc120, Size=32
+[2019.03.28-15.14.54:459][160]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020ed2ebc7a0, Size=32
+[2019.03.28-15.14.54:459][160]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f12126260, Size=32, Default__Puzzle2_C Function /Engine/Transient.REINST_Puzzle2_C_1084:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.54:461][160]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f12125ca0, Size=32, Default__Puzzle2_C Function /Game/Maps/Levels/Puzzle2.Puzzle2_C:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.14.54:742][160]LogSavePackage: Save=285.99ms
+[2019.03.28-15.14.54:742][160]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Puzzle2955727524F89433A794F8592B45D1AAE.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle2.umap'
+[2019.03.28-15.14.54:751][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle2.umap
+[2019.03.28-15.14.56:508][349]LogEditorViewport: Clicking on Actor (LMB): B_NewReceiver_C (B_NewReceiver2)
+[2019.03.28-15.14.57:426][427]LogEditorViewport: Clicking on Actor (CTRL LMB): B_Room_C (B_TowerRoom)
+[2019.03.28-15.14.58:626][547]LogEditorViewport: Clicking on Actor (LMB): B_Room_C (B_TowerRoom)
+[2019.03.28-15.14.59:644][646]LogEditorViewport: Clicking on Actor (LMB): B_Mirror_C (B_Mirror)
+[2019.03.28-15.14.59:877][668]Cmd: DELETE
+[2019.03.28-15.14.59:877][668]Cmd: ACTOR DELETE
+[2019.03.28-15.14.59:883][668]LogEditorActor: Deleted Actor: B_Mirror_C
+[2019.03.28-15.14.59:913][668]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.03.28-15.15.00:301][711]LogEditorViewport: Clicking on Actor (LMB): B_NewReceiver_C (B_NewReceiver3)
+[2019.03.28-15.15.00:621][736]Cmd: DELETE
+[2019.03.28-15.15.00:621][736]Cmd: ACTOR DELETE
+[2019.03.28-15.15.00:625][736]LogEditorActor: Deleted Actor: B_NewReceiver_C
+[2019.03.28-15.15.00:657][736]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.03.28-15.15.00:959][769]LogEditorViewport: Clicking on Actor (LMB): B_NewFilter_C (B_NewFilter)
+[2019.03.28-15.15.01:168][787]Cmd: DELETE
+[2019.03.28-15.15.01:168][787]Cmd: ACTOR DELETE
+[2019.03.28-15.15.01:172][787]LogEditorActor: Deleted Actor: B_NewFilter_C
+[2019.03.28-15.15.01:201][787]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.03.28-15.15.01:581][830]LogEditorViewport: Clicking on Actor (LMB): B_NewReceiver_C (B_NewReceiver)
+[2019.03.28-15.15.01:776][845]Cmd: DELETE
+[2019.03.28-15.15.01:776][845]Cmd: ACTOR DELETE
+[2019.03.28-15.15.01:782][845]LogEditorActor: Deleted Actor: B_NewReceiver_C
+[2019.03.28-15.15.01:814][845]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.03.28-15.15.02:269][898]LogEditorViewport: Clicking on Actor (LMB): B_NewFilter_C (B_NewFilter2)
+[2019.03.28-15.15.02:427][913]Cmd: DELETE
+[2019.03.28-15.15.02:427][913]Cmd: ACTOR DELETE
+[2019.03.28-15.15.02:432][913]LogEditorActor: Deleted Actor: B_NewFilter_C
+[2019.03.28-15.15.02:460][913]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.03.28-15.15.02:835][949]LogEditorViewport: Clicking on Actor (LMB): B_NewReceiver_C (B_NewReceiver2)
+[2019.03.28-15.15.03:015][961]Cmd: DELETE
+[2019.03.28-15.15.03:015][961]Cmd: ACTOR DELETE
+[2019.03.28-15.15.03:020][961]LogEditorActor: Deleted Actor: B_NewReceiver_C
+[2019.03.28-15.15.03:051][961]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.03.28-15.15.03:907][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-15.15.04:190][ 38]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f12125ca0, Size=32
+[2019.03.28-15.15.04:190][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f12125ca0, Size=32, Puzzle2_C_0 Function /Engine/Transient.REINST_Puzzle2_C_1088:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.15.04:191][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f121273c0, Size=32, Default__Puzzle2_C Function /Game/Maps/Levels/Puzzle2.Puzzle2_C:ExecuteUbergraph_Puzzle2
+[2019.03.28-15.15.04:495][ 38]LogSavePackage: Save=305.78ms
+[2019.03.28-15.15.04:495][ 38]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/Puzzle2AEE408EF4406B2C32E26F1B88EEAE1F6.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle2.umap'
+[2019.03.28-15.15.04:504][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Maps/Levels/Puzzle2.umap
+[2019.03.28-15.15.08:609][472]LogMaterial: Missing cached shader map for material M_MyFloor, compiling. 
+[2019.03.28-15.15.08:719][472]LogMaterial: Missing cached shader map for material M_MyFloor, compiling. 
+[2019.03.28-15.15.08:732][472]LogMaterial: Missing cached shader map for material M_MyFloor, compiling. 
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-15.15.08:754][472]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.28-15.15.08:767][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionClamp_2, compiling. 
+[2019.03.28-15.15.08:773][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.28-15.15.08:779][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionClamp_0, compiling. 
+[2019.03.28-15.15.08:785][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.03.28-15.15.08:791][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2019.03.28-15.15.08:796][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_6, compiling. 
+[2019.03.28-15.15.08:799][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.03.28-15.15.09:449][535]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.28-15.15.09:467][537]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.28-15.15.09:487][539]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.28-15.15.09:494][540]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.28-15.15.09:505][541]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.28-15.15.09:514][542]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.28-15.15.09:540][545]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.28-15.15.09:716][561]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.28-15.15.09:737][563]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.28-15.15.09:764][566]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.28-15.15.09:828][573]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.28-15.15.09:837][574]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.28-15.15.09:889][579]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-15.15.09:910][581]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.28-15.15.09:951][585]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.28-15.15.09:997][590]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.28-15.15.10:053][596]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.28-15.15.10:062][597]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.28-15.15.10:072][598]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.28-15.15.10:087][599]MaterialEditorStats: Base pass shader: 113 instructions
+[2019.03.28-15.15.10:087][599]MaterialEditorStats: Base pass shader with Surface Lightmap: 132 instructions
+[2019.03.28-15.15.10:087][599]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2019.03.28-15.15.10:087][599]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.03.28-15.15.10:087][599]MaterialEditorStats: Texture samplers: 5/16
+[2019.03.28-15.15.10:087][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.28-15.15.10:097][600]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.28-15.15.10:109][601]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.28-15.15.10:145][605]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.28-15.15.10:196][609]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-15.15.10:208][610]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.28-15.15.11:701][769]LogMaterial: Missing cached shader map for material MyMirror, compiling. 
+[2019.03.28-15.15.11:805][769]LogMaterial: Missing cached shader map for material MyMirror, compiling. 
+[2019.03.28-15.15.11:813][769]LogMaterial: Missing cached shader map for material MyMirror, compiling. 
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.28-15.15.11:823][769]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.28-15.15.12:057][778]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.28-15.15.12:067][779]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.28-15.15.12:075][780]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.28-15.15.12:075][780]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.28-15.15.12:075][780]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.28-15.15.12:099][783]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.28-15.15.12:099][783]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-15.15.12:264][800]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.28-15.15.12:464][823]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.03.28-15.15.12:464][823]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.03.28-15.15.12:464][823]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.03.28-15.15.12:464][823]MaterialEditorStats: Texture samplers: 2/16
+[2019.03.28-15.15.14:030][  9]LogMaterial: Missing cached shader map for material MyMirror, compiling. 
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.28-15.15.14:037][  9]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.28-15.15.14:237][ 32]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.28-15.15.14:247][ 33]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.28-15.15.14:247][ 33]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.28-15.15.14:247][ 33]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.28-15.15.14:265][ 35]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.28-15.15.14:265][ 35]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.28-15.15.14:265][ 35]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-15.15.14:391][ 49]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.28-15.15.14:613][ 74]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.03.28-15.15.14:613][ 74]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.03.28-15.15.14:613][ 74]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.03.28-15.15.14:613][ 74]MaterialEditorStats: Texture samplers: 2/16
+[2019.03.28-15.15.15:739][208]LogMaterialEditor: Saving and Compiling material MyMirror
+[2019.03.28-15.15.16:308][208]LogMaterial: Missing cached shader map for material MyMirror, compiling. 
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.28-15.15.16:341][208]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.28-15.15.16:371][208]LogMaterial: Missing cached shader map for material MyMirror, compiling. 
+[2019.03.28-15.15.16:394][208]LogMaterial: Missing cached shader map for material MyMirror, compiling. 
+[2019.03.28-15.15.16:438][208]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MyMirror, compiling. 
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.28-15.15.16:858][208]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-15.15.16:860][208]TextureStreamingBuild: Display: Compiling optional shaders took 0.429 seconds.
+[2019.03.28-15.15.18:563][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterials/MyMirror" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/MyMaterials/MyMirror.uasset" SILENT=true
+[2019.03.28-15.15.18:636][208]LogSavePackage: Save=23.05ms
+[2019.03.28-15.15.18:636][208]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/MyMirror70A5B4F340AE3EB0605B5A971E7B3E5D.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/MyMaterials/MyMirror.uasset'
+[2019.03.28-15.15.18:642][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/MyMaterials/MyMirror.uasset
+[2019.03.28-15.15.18:657][208]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.03.28-15.15.18:657][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.03.28-15.15.18:657][208]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.03.28-15.15.18:657][208]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.28-15.15.24:191][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.15.24:268][709]LogSavePackage: Save=62.55ms
+[2019.03.28-15.15.24:268][709]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_RefractionB7E256C5497A4B67717801973FEC54E5.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.15.24:269][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.15.39:846][480]BlueprintLog: New page: Compile PC_Refraction
+[2019.03.28-15.15.39:953][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f267ef200, Size=1584
+[2019.03.28-15.15.39:953][480]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f20676400, Size=1584, PC_Refraction_C_10 Function /Engine/Transient.REINST_PC_Refraction_C_1131:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.15.39:966][480]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f267ef900, Size=1584, Default__PC_Refraction_C Function /Game/Technical/PC_Refraction.PC_Refraction_C:ExecuteUbergraph_PC_Refraction
+[2019.03.28-15.15.40:501][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.15.40:590][480]LogSavePackage: Save=67.36ms
+[2019.03.28-15.15.40:590][480]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction42D3430141FE10CA48D3BC8DCECDF995.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.15.40:593][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.15.40:895][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.15.40:974][482]LogSavePackage: Save=65.84ms
+[2019.03.28-15.15.40:974][482]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction6D024A154D39577FDC29F8AEFBE38C81.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.15.40:976][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.15.41:443][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.15.41:551][509]LogSavePackage: Save=81.11ms
+[2019.03.28-15.15.41:551][509]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction6E4100D64BAA0CA3E1660E8C04B50023.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.15.41:555][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
+[2019.03.28-15.15.47:012][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Technical/PC_Refraction" FILE="../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset" SILENT=true
+[2019.03.28-15.15.47:097][107]LogSavePackage: Save=71.88ms
+[2019.03.28-15.15.47:097][107]LogSavePackage: Moving '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Saved/PC_Refraction4BEF57FF437BB6AC46878C9EF45A1E07.tmp' to '../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset'
+[2019.03.28-15.15.47:101][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/q5091352/Documents/GitHub/Refraction/Refraction/Content/Technical/PC_Refraction.uasset
